@@ -14,7 +14,7 @@ A curated collection of Sinhala literary texts and related resources with OCR ou
   "title": "පන්සිය පනස් ජාතක පොත",
   "title_en": "Pansiya Panas Jathaka Potha",
   "author": "Unknown",
-  "author_en": "",
+  "author_en": "Unknown",
   "genre": "Fiction; Religious",
   "issued_date": "1881",
   "written_date": "1303 - 1333",
