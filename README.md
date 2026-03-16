@@ -1,1 +1,1 @@
-#SDC - Sinhala Diachronic Corpus
+# SDC - Sinhala Diachronic Corpus
