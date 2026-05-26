@@ -1,0 +1,29 @@
+# Ignore system files
+.DS_Store
+.ipynb_checkpoints/
+
+# Ignore large datasets and PyTorch/Llama embeddings
+Data/*.pt*
+Data/*.pt
+Data/*.json* 22-*
+Data/century_word_embeddings.json
+Data/XLM-R_lemma_drift_analysis_upd.csv
+Data/lemma_sentences.csv
+
+# Ignore large model files, weights, checkpoints and binaries
+*.bin
+*.model
+*.npy
+*.dat
+*.ckpt*
+*.pkl
+*.h5
+
+# Ignore Dynamic Bernoulli Embeddings fits / logs
+Dynamic_Bernoulli_Embeddings/fits/
+
+# Allow small reports, final results and configs in Data
+!Data/*_final.csv
+!Data/*_orthogonal_procrustes*.csv
+!Data/*_drift_report.tex
+!Data/*_summary_table.tex
