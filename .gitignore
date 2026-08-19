@@ -8,6 +8,7 @@ Data/*.pt
 Data/*.json* 22-*
 Data/century_word_embeddings.json
 Data/XLM-R_lemma_drift_analysis_upd.csv
+Data/LlaMa_FT_lemma_drift_analysis_upd.csv
 Data/lemma_sentences.csv
 
 # Ignore large model files, weights, checkpoints and binaries
