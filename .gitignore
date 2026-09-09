@@ -1,6 +1,7 @@
 # Ignore system files
 .DS_Store
 .ipynb_checkpoints/
+__pycache__/
 
 # Ignore large datasets and PyTorch/Llama embeddings
 Data/*.pt*
@@ -19,8 +20,8 @@ Data/lemma_sentences.csv
 *.pkl
 *.h5
 
-# Ignore Dynamic Bernoulli Embeddings fits / logs
-Dynamic_Bernoulli_Embeddings/fits/
+# Ignore Dynamic Bernoulli Embeddings entirely
+Dynamic_Bernoulli_Embeddings/
 
 # Allow small reports, final results and configs in Data
 !Data/*_final.csv

@@ -4,7 +4,7 @@ century,sentence_index,token_index,word,lemma,pos
 5,0,2,රූප,රූප,NOUN
 5,0,3,ලොක,ලො,NOUN
 5,0,4,අරූපලෝක,අරූපලෝ,NOUN
-5,0,5,යන්,,NOUN
+5,0,5,යන්,යන්,NOUN
 5,0,6,ලොකත්රයට,ලොකත්රයට,Proper noun or Invalid
 5,0,7,ශ්රෙෂ්ඨ,ශ්රෙෂ්ඨ,NOUN
 5,0,8,වූ,ව,Verb
@@ -783,7 +783,7 @@ century,sentence_index,token_index,word,lemma,pos
 12,17,31,ඒ,ඒ,PART
 12,17,32,ඵලජාති,ඵලජාති,NOUN
 12,17,33,ව්යක්ත,ව්යක්ත,Proper noun or Invalid
-12,17,34,යන්ගේ,,NOUN
+12,17,34,යන්ගේ,යන්ගේ,NOUN
 12,17,35,මුඛ,මුඛ,NOUN
 12,17,36,ප්රවර්තිත,ප්රවර්තිත,NOUN
 12,17,37,වේවා,වේවා,PART
@@ -1185,7 +1185,7 @@ century,sentence_index,token_index,word,lemma,pos
 12,43,35,වූවාක්,වූවාක්,Proper noun or Invalid
 12,43,36,වැන්න,වැන්න,PART
 12,44,0,තුගුතුල්,තුගුතුල,NOUN
-12,44,1,යට,,NOUN
+12,44,1,යට,යට,NOUN
 12,44,2,හ,හ,PART
 12,44,3,ලෙල,ලෙල,NOUN
 12,44,4,දද,දද,NOUN
@@ -1689,7 +1689,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,14,6,ගුණ,ගුණ,NOUN
 13,14,7,ඇතියෝ,ඇති,NOUN
 13,15,0,කිසේය,කිසේය,Proper noun or Invalid
-13,15,1,යත්,,NOUN
+13,15,1,යත්,යත්,NOUN
 13,16,0,බුදුහු,බුදුහ,NOUN
 13,16,1,රූප,රූප,NOUN
 13,16,2,විලාසයෙනුදු,විලාසයෙනුදු,Proper noun or Invalid
@@ -2258,7 +2258,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,43,2,දහම්,දහම,NOUN
 13,43,3,සරණ,සරණ,NOUN
 13,43,4,ද,ද,PART
-13,43,5,යත්,,NOUN
+13,43,5,යත්,යත්,NOUN
 13,44,0,අප,අප,PRONOUN
 13,44,1,තිලෝගුරු,තිලෝගුර,NOUN
 13,44,2,සම්මා,සම්මා,ADJECTIVE
@@ -2367,7 +2367,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,48,1,සාරාසංඛ්ය,සාරාසංඛ්,NOUN
 13,48,2,කප්,කප,NOUN
 13,48,3,ලක්ෂයකින්,ලක්ෂ,NOUN
-13,48,4,යට,,NOUN
+13,48,4,යට,යට,NOUN
 13,48,5,අප,අප,PRONOUN
 13,48,6,බුදුරජානන්,බුදුරජාන,NOUN
 13,48,7,වහන්සේ,වහන්සේ,NOUN
@@ -3262,12 +3262,12 @@ century,sentence_index,token_index,word,lemma,pos
 13,50,101,ලද,ලද,NOUN
 13,50,102,මනා,මනා,ADJECTIVE
 13,50,103,කල්හි,කල්හි,PART
-13,50,104,පිය,,Verb
+13,50,104,පිය,පිය,Verb
 13,50,105,වූ,ව,Verb
 13,50,106,සුදොවුන්,සුදොව,NOUN
 13,50,107,මහරජාණන්,මහරජාණ,NOUN
 13,50,108,සේසත්,සේසත,NOUN
-13,50,109,යට,,NOUN
+13,50,109,යට,යට,NOUN
 13,50,110,හෙවැ,හෙව,NOUN
 13,50,111,රහත්,රහ,NOUN
 13,50,112,වැ,වැ,NOUN
@@ -3758,7 +3758,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,82,4,දුඃඛ,දුඃඛ,NOUN
 13,82,5,කාරණය,කාරණ,NOUN
 13,82,6,නොවෙයි,ව,Verb
-13,82,7,යත්,,NOUN
+13,82,7,යත්,යත්,NOUN
 13,82,8,එසේ,එසේ,ADJECTIVE
 13,82,9,ද,ද,PART
 13,82,10,නොවේ,ව,Verb
@@ -3947,7 +3947,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,92,7,ඒ,ඒ,PART
 13,92,8,ව්යාධි,ව්යාධි,Proper noun or Invalid
 13,92,9,ශාන්ති,ශාන්ති,NOUN
-13,92,10,යට,,NOUN
+13,92,10,යට,යට,NOUN
 13,92,11,සුදුසු,සුදුසු,NOUN
 13,92,12,වූ,ව,Verb
 13,92,13,අෂ්ටාංගායුර්වෙදයෙහි,අෂ්ටාංගායුර්වෙදයෙහි,Proper noun or Invalid
@@ -4272,7 +4272,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,107,1,බඳු,බඳු,PART
 13,107,2,ප්රයෝජන,ප්රයෝජන,Proper noun or Invalid
 13,107,3,ඇත්තෙ,ඇත්තෙ,Proper noun or Invalid
-13,107,4,යයි,,NOUN
+13,107,4,යයි,යයි,NOUN
 13,107,5,ස්වරූප,ස්වරූප,NOUN
 13,107,6,හෙයින්,හෙයින්,PART
 13,107,7,නොදන්නා,දන්න,Verb
@@ -4440,7 +4440,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,123,10,යන,ය,Verb
 13,123,11,අර්ථයි,අර්ථ,NOUN
 13,124,0,විසුද්ධි,විසුද්ධි,NOUN
-13,124,1,යයි,,NOUN
+13,124,1,යයි,යයි,NOUN
 13,124,2,සියලු,සියලු,PART
 13,124,3,රාගාදි,රාගාදි,NOUN
 13,124,4,මලයෙන්,මල,NOUN
@@ -4476,7 +4476,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,126,4,ලැබෙ,ලැබ,NOUN
 13,127,0,විශුද්ධි,විශුද්ධි,NOUN
 13,127,1,මාර්ග,මාර්ග,NOUN
-13,127,2,යයි,,NOUN
+13,127,2,යයි,යයි,NOUN
 13,127,3,නිෂ්පයර්යයායෙන්,නිෂ්පයර්යයායෙන්,Proper noun or Invalid
 13,127,4,ලොකොත්තර,ලොකොත්තර,Proper noun or Invalid
 13,127,5,මාර්ගය,මාර්ග,NOUN
@@ -4636,7 +4636,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,137,7,ලදී,ලද,NOUN
 13,138,0,මිහි,මිහි,NOUN
 13,138,1,ධ්යාන,ධ්යාන,Proper noun or Invalid
-13,138,2,යයි,,NOUN
+13,138,2,යයි,යයි,NOUN
 13,138,3,විදර්ශනාවට,විදර්ශනා,NOUN
 13,138,4,පාදක,පාදක,NOUN
 13,138,5,වූ,ව,Verb
@@ -4684,7 +4684,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,142,2,අපචයගාමී,අපචයගාම,NOUN
 13,142,3,බැවින්,බැවින්,PART
 13,142,4,සත්වයන්,සත්ව,NOUN
-13,142,5,ට,,PROPER NOUN
+13,142,5,ට,ට,PROPER NOUN
 13,142,6,විශුද්ධි,විශුද්ධි,NOUN
 13,142,7,එළවා,එළ,Verb
 13,142,8,සම්යග්,සම්යග,NOUN
@@ -4917,7 +4917,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,154,8,ධම්ම,ධම්ම,PROPER NOUN
 13,154,9,විනයෙ,වින,NOUN
 13,154,10,අය,අයxkara,Verb
-13,154,11,නොති,,Verb
+13,154,11,නොති,නොති,Verb
 13,154,12,එකායනො,එකායන,NOUN
 13,154,13,යි,යි,PART
 13,154,14,ගන්නේ,ගන්නේ,Proper noun or Invalid
@@ -5118,7 +5118,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,167,45,සාරාසංඛ්ය,සාරාසංඛ්,NOUN
 13,167,46,කප්,කප,NOUN
 13,167,47,ලක්ෂයකින්,ලක්ෂ,NOUN
-13,167,48,යට,,NOUN
+13,167,48,යට,යට,NOUN
 13,167,49,දීපංකර,දීපංකර,PROPER NOUN
 13,167,50,නම්,නම්,PART
 13,167,51,බුදුන්,බුදුන්,PROPER NOUN
@@ -5648,7 +5648,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,174,46,ශාලාව,ශාලා,NOUN
 13,174,47,සරහමු෴,සරහමු෴,Proper noun or Invalid
 13,175,0,කෙසේද,කෙසේද,PART
-13,175,1,යත්,,NOUN
+13,175,1,යත්,යත්,NOUN
 13,176,0,අපගේ,අප,PRONOUN
 13,176,1,තිලෝගුරු,තිලෝගුර,NOUN
 13,176,2,බුදුහු,බුදුහ,NOUN
@@ -5715,7 +5715,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,177,0,උන්,උ,NOUN
 13,177,1,හැම,හැම,PART
 13,177,2,හැරගෙන,හැරගෙන,Proper noun or Invalid
-13,177,3,යන්ට,,NOUN
+13,177,3,යන්ට,යන්ට,NOUN
 13,177,4,නිසි,නිසි,ADJECTIVE
 13,177,5,උපදෙස්,උපදෙස,NOUN
 13,177,6,නොදැන,නොදැන,NOUN
@@ -5740,7 +5740,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,178,4,හෙයින්,හෙයින්,PART
 13,178,5,මේලෙසින්,මේලෙස,NOUN
 13,178,6,ගෙන,ගන්,Verb
-13,178,7,යන්ට,,NOUN
+13,178,7,යන්ට,යන්ට,NOUN
 13,178,8,බැරි,බැරිxva,Verb
 13,178,9,වුවත්,වු,NOUN
 13,178,10,ධර්මයෙහි,ධර්ම,NOUN
@@ -5860,7 +5860,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,180,76,නොහොත්,නොහොත්,PART
 13,180,77,නිල්බිමක්,නිල්බිමක්,Proper noun or Invalid
 13,180,78,රන්,රන්,NOUN
-13,180,79,හු,,Verb
+13,180,79,හු,හු,Verb
 13,180,80,ගසා,ගස,Verb
 13,180,81,බෙදන,බෙද,Verb
 13,180,82,කලක්මෙන්,කලක්මෙන්,Proper noun or Invalid
@@ -7500,7 +7500,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,215,0,සිටිද්ද,සිටිද්ද,NOUN
 13,215,1,මේ,මේ,PART
 13,215,2,සමාධාන,සමාධාන,NOUN
-13,215,3,යයි,,NOUN
+13,215,3,යයි,යයි,NOUN
 13,215,4,දතයුතු,දතයුත,NOUN
 13,215,5,යන,යන,PART
 13,215,6,මෙහි,මෙහි,PART
@@ -7966,7 +7966,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,246,34,විමසා,විමස,Verb
 13,246,35,වීමංසනය,වීමංසන,NOUN
 13,246,36,කො,කො,PART
-13,246,37,ට,,PROPER NOUN
+13,246,37,ට,ට,PROPER NOUN
 13,246,38,බඳනේ,බඳන,NOUN
 13,246,39,පද්ය,පද්,NOUN
 13,246,40,බන්ධනය,බන්ධන,NOUN
@@ -8019,7 +8019,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,249,6,මහත්,මහ,NOUN
 13,249,7,විනාශ,විනාශ,NOUN
 13,249,8,කරන්නේ,කරන්නේ,Proper noun or Invalid
-13,249,9,යයි,,NOUN
+13,249,9,යයි,යයි,NOUN
 13,249,10,පුරාතනාචාර්යයවරයන්,පුරාතනාචාර්යයවර,NOUN
 13,249,11,විසින්,විසින්,PART
 13,249,12,කියන,කිය,Verb
@@ -9676,7 +9676,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,330,14,ධ්යානයට,ධ්යානයට,Proper noun or Invalid
 13,330,15,සමවදනෙ,සමවදන,NOUN
 13,330,16,ද,ද,PART
-13,330,17,යත්,,NOUN
+13,330,17,යත්,යත්,NOUN
 13,330,18,ඉදින්,ඉද,NOUN
 13,330,19,මෙහි,මෙහි,PART
 13,330,20,චතුර්විධ,චතුර්විධ,NOUN
@@ -9795,7 +9795,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,341,7,අනතුරුව,අනතුරුව,PART
 13,341,8,ලොහිත,ලොහිත,NOUN
 13,341,9,කසිණයෙහි,කසිණ,NOUN
-13,341,10,යයි,,NOUN
+13,341,10,යයි,යයි,NOUN
 13,341,11,පෘථිවිකසිණය,පෘථිවිකසිණය,Proper noun or Invalid
 13,341,12,දක්වා,දක්වා,PART
 13,341,13,කිය,කිය,Verb
@@ -10006,7 +10006,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,352,8,ප්රථම,ප්රථම,Proper noun or Invalid
 13,352,9,ධ්යානයට,ධ්යානයට,Proper noun or Invalid
 13,352,10,සමවැද,සමවදි,Verb
-13,352,11,යයි,,NOUN
+13,352,11,යයි,යයි,NOUN
 13,353,0,මෙ,මෙ,NOUN
 13,353,1,ක්රමයෙන්,ක්රමයෙන්,Proper noun or Invalid
 13,353,2,ඣානං,ඣානං,Proper noun or Invalid
@@ -10090,7 +10090,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,357,33,ලොහිතකසිණයෙන්,ලොහිතකසිණ,NOUN
 13,357,34,ආකිඤ්චඤ්ඤායතනයට,ආකිඤ්චඤ්ඤායතනයට,Proper noun or Invalid
 13,357,35,සමවැද,සමවදි,Verb
-13,357,36,යයි,,NOUN
+13,357,36,යයි,යයි,NOUN
 13,358,0,ලොහිතකසිණය,ලොහිතකසිණ,NOUN
 13,358,1,ආවර්ජනා,ආවර්ජනා,NOUN
 13,358,2,කරමින්,කර,Verb
@@ -10654,7 +10654,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,389,3,හෝ,හෝ,PART
 13,389,4,වචසින්,වචස,NOUN
 13,389,5,හෝ,හෝ,PART
-13,389,6,නු,,Verb
+13,389,6,නු,නු,Verb
 13,389,7,දුන්,දෙ,Verb
 13,389,8,ආරාමාදි,ආරාමාදි,NOUN
 13,389,9,වස්තුව,වස්තු,NOUN
@@ -11210,7 +11210,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,422,26,ආනුෂංගික,ආනුෂංගි,NOUN
 13,422,27,ප්රයොජන,ප්රයොජන,Proper noun or Invalid
 13,422,28,නම්,නම්,PART
-13,422,29,යනුයි,,NOUN
+13,422,29,යනුයි,යනුයි,NOUN
 13,423,0,යථොක්ත,යථොක්ත,Proper noun or Invalid
 13,423,1,සංඥා,සංඥා,NOUN
 13,423,2,පූර්ව,පූර්ව,NOUN
@@ -11265,7 +11265,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,426,3,මහාදයො,මහාද,NOUN
 13,426,4,යනාදි,යනාදි,NOUN
 13,426,5,තත්තත්පද,තත්තත්පද,Proper noun or Invalid
-13,426,6,යන්ගේ,,NOUN
+13,426,6,යන්ගේ,යන්ගේ,NOUN
 13,426,7,ව්යුත්පත්ති,ව්යුත්පත්ති,Proper noun or Invalid
 13,426,8,නිමිත්තාර්ථයි,නිමිත්තාර්ථයි,Proper noun or Invalid
 13,426,9,මහාදයො,මහාද,NOUN
@@ -11680,7 +11680,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,440,17,පුරී,පුර,NOUN
 13,440,18,පෘථිවියෙහි,පෘථිවි,NOUN
 13,440,19,වූ,ව,Verb
-13,441,0,යත්,,NOUN
+13,441,0,යත්,යත්,NOUN
 13,441,1,යම්,යම්,PART
 13,441,2,පුරියෙක්හි,පුරියෙක්හි,Proper noun or Invalid
 13,441,3,ප්රාසාදයන්ගේ,ප්රාසාද,NOUN
@@ -11801,7 +11801,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,446,8,දෛත්යයා,දෛත්යයා,Proper noun or Invalid
 13,446,9,විසූ,විසි,Verb
 13,446,10,පර්වනය,පර්වන,NOUN
-13,447,0,යත්,,NOUN
+13,447,0,යත්,යත්,NOUN
 13,447,1,යම්,යම්,PART
 13,447,2,පුරියෙක්හි,පුරියෙක්හි,Proper noun or Invalid
 13,447,3,පිරිහස්,පිරිහස,NOUN
@@ -11984,7 +11984,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,453,16,කාන්තිහුගේ,කාන්තිහුගේ,Proper noun or Invalid
 13,453,17,බෙදීම,බෙදීම,NOUN
 13,454,0,කැමැතිවි,කැමැතිවි,NOUN
-13,454,1,යයි,,NOUN
+13,454,1,යයි,යයි,NOUN
 13,454,2,සිතම්ද,සිතම්ද,NOUN
 13,455,0,ආසන්න,ආසන්න,ADJECTIVE
 13,455,1,ලං,ලං,NOUN
@@ -12603,7 +12603,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,496,14,හෙයින්,හෙයින්,PART
 13,496,15,කියන,කිය,Verb
 13,496,16,ලද,ලද,NOUN
-13,496,17,යත්,,NOUN
+13,496,17,යත්,යත්,NOUN
 13,497,0,තදර්ථය,තදර්ථය,Proper noun or Invalid
 13,497,1,මංගල,මංගල,NOUN
 13,497,2,බැවින,බව,Verb
@@ -12640,7 +12640,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,498,10,හෙයින්,හෙයින්,PART
 13,498,11,කියන,කිය,Verb
 13,498,12,ලද,ලද,NOUN
-13,498,13,යත්,,NOUN
+13,498,13,යත්,යත්,NOUN
 13,499,0,මෙන්,මෙන්,PART
 13,499,1,වෙන,ව,Verb
 13,499,2,සංවර්ණනාවක්,සංවර්ණනා,NOUN
@@ -12906,7 +12906,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,509,16,පන,පන,NOUN
 13,509,17,යනු,ය,Verb
 13,509,18,වචනාලංකාරයි,වචනාලංකාර,NOUN
-13,510,0,යට,,NOUN
+13,510,0,යට,යට,NOUN
 13,510,1,යි,යි,PART
 13,510,2,දක්වා,දක්වා,PART
 13,510,3,මෙතෙන,මෙතෙන,NOUN
@@ -12914,7 +12914,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,510,5,කුමක්,කුමක්,PART
 13,510,6,පිණිස,පිණිස,PART
 13,510,7,දැක්වූද,දැක්වූද,Proper noun or Invalid
-13,510,8,යත්,,NOUN
+13,510,8,යත්,යත්,NOUN
 13,511,0,බුදුන්,බුදුන්,PROPER NOUN
 13,511,1,විසින්,විසින්,PART
 13,511,2,දෙසිත,දෙසිත,NOUN
@@ -13206,7 +13206,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,526,3,මාගේ,ම,PRONOUN
 13,526,4,ආත්මභාවය,ආත්මභාව,NOUN
 13,526,5,සුන්දර,සුන්දර,ADJECTIVE
-13,526,6,යයි,,NOUN
+13,526,6,යයි,යයි,NOUN
 13,526,7,ලොභ,ලොභ,NOUN
 13,526,8,වශයෙන්,වශ,NOUN
 13,526,9,උපදීමය,උපදීම,NOUN
@@ -13302,7 +13302,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,532,9,තොප,තොප,NOUN
 13,532,10,විචාරමි,විචාර,Verb
 13,532,11,ගොතමා,ගොතම,NOUN
-13,532,12,ති,,Verb
+13,532,12,ති,ති,Verb
 13,532,13,ගොතමයි,ගොතම,NOUN
 13,532,14,භගවත්,භග,NOUN
 13,532,15,හට,හට,PART
@@ -13758,7 +13758,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,556,1,මෑතැ,මෑත,NOUN
 13,556,2,අවදියේ,අවදි,NOUN
 13,556,3,වියත්,වියත,NOUN
-13,556,4,හු,,Verb
+13,556,4,හු,හු,Verb
 13,556,5,මෙ,මෙ,NOUN
 13,556,6,පොතත්,පොත,NOUN
 13,556,7,මෙය,මෙ,NOUN
@@ -14315,7 +14315,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,590,10,විශුද්ධිහු,විශුද්ධිහ,NOUN
 13,590,11,සැපයිය,සපය,Verb
 13,590,12,යුත්තේ,යුත්ත,NOUN
-13,590,13,යයි,,NOUN
+13,590,13,යයි,යයි,NOUN
 13,590,14,කියන,කිය,Verb
 13,590,15,ලදහු,ලදහ,NOUN
 13,590,16,ද,ද,PART
@@ -14331,7 +14331,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,590,26,චතුර්,චතුර,NOUN
 13,590,27,විධ,විධ,ADJECTIVE
 13,590,28,ශිල,ශිල,NOUN
-13,590,29,යයි,,NOUN
+13,590,29,යයි,යයි,NOUN
 13,591,0,හෙද,හෙද,PROPER NOUN
 13,591,1,ශීල,ශීල,NOUN
 13,591,2,නිර්දෙශයෙහි,නිර්දෙශයෙහි,Proper noun or Invalid
@@ -14658,7 +14658,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,602,25,ජීවිතෙන්ද්රියය,ජීවිතෙන්ද්රියය,Proper noun or Invalid
 13,602,26,කාය,කා,NOUN
 13,602,27,ප්රසාද,ප්රසාද,NOUN
-13,602,28,යයි,,NOUN
+13,602,28,යයි,යයි,NOUN
 13,603,0,මෙසෙ,මෙස,NOUN
 13,603,1,කාය,කා,NOUN
 13,603,2,දශක,දශක,NOUN
@@ -14738,7 +14738,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,605,6,පූයා,පූ,NOUN
 13,605,7,ය,ය,PART
 13,606,0,මූත්ර,මූත්ර,Proper noun or Invalid
-13,606,1,යයි,,NOUN
+13,606,1,යයි,යයි,NOUN
 13,607,0,මෙ,මෙ,NOUN
 13,607,1,සතර,සතර,NOUN
 13,607,2,ඍතු,ඍතු,NOUN
@@ -14967,11 +14967,11 @@ century,sentence_index,token_index,word,lemma,pos
 13,616,16,ශමථයානිකය,ශමථයානිකය,Proper noun or Invalid
 13,616,17,හට,හට,PART
 13,616,18,පරිග්රහ,පරිග්රහ,NOUN
-13,616,19,යට,,NOUN
+13,616,19,යට,යට,NOUN
 13,616,20,යෙත්,යෙත්,Proper noun or Invalid
 13,616,21,හෙතු,හෙත,NOUN
 13,616,22,කිම,කිම,Proper noun or Invalid
-13,616,23,යත්,,NOUN
+13,616,23,යත්,යත්,NOUN
 13,617,0,අනධිගත,අනධිගත,NOUN
 13,617,1,හෙයිනි෴,හෙයිනි෴,Proper noun or Invalid
 13,618,0,එ,එ,PROPER NOUN
@@ -15009,7 +15009,7 @@ century,sentence_index,token_index,word,lemma,pos
 13,620,6,ව්යවස්ථා,ව්යවස්ථා,Proper noun or Invalid
 13,620,7,කෙරෙ,කෙර,NOUN
 13,620,8,කෙසෙද,කෙසෙද,NOUN
-13,620,9,යත්,,NOUN
+13,620,9,යත්,යත්,NOUN
 13,621,0,මෙ,මෙ,NOUN
 13,621,1,සස්නෙහි,සස්න,NOUN
 13,621,2,මහණ,මහණ,ADJECTIVE
@@ -15431,7 +15431,7 @@ century,sentence_index,token_index,word,lemma,pos
 14,13,7,කැටුවම,කැටුවම,NOUN
 14,13,8,ගෙනයන්ට,ගෙනයන්ට,Proper noun or Invalid
 14,13,9,වටනේ,වටන,PROPER NOUN
-14,13,10,යයි,,NOUN
+14,13,10,යයි,යයි,NOUN
 14,13,11,සිතා,සිත,Verb
 14,13,12,රජහට,රජහ,NOUN
 14,13,13,එපවත්,එප,NOUN
@@ -15446,7 +15446,7 @@ century,sentence_index,token_index,word,lemma,pos
 14,13,22,ගේ,ගේ,PART
 14,13,23,දොරට,දොර,NOUN
 14,13,24,එන්නේ,එන්නේ,Proper noun or Invalid
-14,13,25,යයි,,NOUN
+14,13,25,යයි,යයි,NOUN
 14,13,26,සියළු,සියළු,PART
 14,13,27,නුවර,නුවර,NOUN
 14,13,28,බෙර,බෙර,NOUN
@@ -15488,7 +15488,7 @@ century,sentence_index,token_index,word,lemma,pos
 14,14,22,සේක,සේක,PART
 14,15,0,කෙසේ,කෙස,NOUN
 14,15,1,ද,ද,PART
-14,15,2,යත්,,NOUN
+14,15,2,යත්,යත්,NOUN
 14,15,3,එඹා,එඹ,NOUN
 14,15,4,සුමෙට,සුමෙ,NOUN
 14,15,5,පණ්ඩිතයෙනි,පණ්ඩිත,NOUN
@@ -15716,7 +15716,7 @@ century,sentence_index,token_index,word,lemma,pos
 14,29,31,සේක෴,සේක෴,Proper noun or Invalid
 14,29,32,හේ,හ,PROPER NOUN
 14,29,33,කෙසේද,කෙසේද,PART
-14,29,34,යත්,,NOUN
+14,29,34,යත්,යත්,NOUN
 14,30,0,ඒවා,ඒ,NOUN
 14,30,1,සුමෙධ,සුමෙධ,NOUN
 14,30,2,පණ්ඩිතයෙනි,පණ්ඩිත,NOUN
@@ -15916,7 +15916,7 @@ century,sentence_index,token_index,word,lemma,pos
 14,38,12,දොෂය,දොෂ,NOUN
 14,38,13,මිස,මිස,PART
 14,38,14,නිවන්නැම,නිවන්නැම,Proper noun or Invalid
-14,38,15,ති,,Verb
+14,38,15,ති,ති,Verb
 14,38,16,ආචාරීන්ගේ,ආචාරී,NOUN
 14,38,17,දොෂයෙක්,දොෂ,NOUN
 14,38,18,නොවන්නේය෴,නොවන්නේය෴,Proper noun or Invalid
@@ -16051,7 +16051,7 @@ century,sentence_index,token_index,word,lemma,pos
 14,44,13,නගරයට,නගර,NOUN
 14,44,14,යා,යාxkara,Verb
 14,44,15,යුතුම,යුතුම,NOUN
-14,44,16,යයි,,NOUN
+14,44,16,යයි,යයි,NOUN
 14,44,17,සිතුසේක෴,සිතුසේක෴,Proper noun or Invalid
 14,45,0,එයින්,එයින්,Proper noun or Invalid
 14,45,1,කීහ,කීහ,NOUN
@@ -16708,7 +16708,7 @@ century,sentence_index,token_index,word,lemma,pos
 14,57,14,බැස,බසි,Verb
 14,57,15,රජ,රජxkara,Verb
 14,57,16,කරන්නේ,කරන්නේ,Proper noun or Invalid
-14,57,17,යයි,,NOUN
+14,57,17,යයි,යයි,NOUN
 14,57,18,බුදුන්,බුදුන්,PROPER NOUN
 14,57,19,විසින්,විසින්,PART
 14,57,20,වදාරණ,වදාරණ,NOUN
@@ -17067,7 +17067,7 @@ century,sentence_index,token_index,word,lemma,pos
 14,60,153,ඇයි,ඇයි,PART
 14,60,154,සුමෙධ,සුමෙධ,NOUN
 14,60,155,තාපස,තාපස,NOUN
-14,60,156,යන්,,NOUN
+14,60,156,යන්,යන්,NOUN
 14,60,157,වහන්ස,වහන්ස,Proper noun or Invalid
 14,60,158,තව,තව,PART
 14,60,159,නුඹ,නුඹ,NOUN
@@ -17150,7 +17150,7 @@ century,sentence_index,token_index,word,lemma,pos
 14,61,31,ආයාසයක්,ආයාස,NOUN
 14,61,32,නොවම,නොවම,NOUN
 14,61,33,කෙරෙම්ම,කෙරෙම්ම,NOUN
-14,61,34,යයි,,NOUN
+14,61,34,යයි,යයි,NOUN
 14,61,35,යනාදීන්,යනාදී,NOUN
 14,61,36,සිතා,සිත,Verb
 14,61,37,වසවර්තිමාරයා,වසවර්තිමාර,NOUN
@@ -17278,7 +17278,7 @@ century,sentence_index,token_index,word,lemma,pos
 14,62,7,වූ,ව,Verb
 14,62,8,මේ,මේ,PART
 14,62,9,තාපස,තාපස,NOUN
-14,62,10,යන්,,NOUN
+14,62,10,යන්,යන්,NOUN
 14,62,11,බලව,බල,NOUN
 14,62,12,සාරාසංඛෙය්ය,සාරාසංඛෙය්,NOUN
 14,62,13,කප්,කප,NOUN
@@ -17649,7 +17649,7 @@ century,sentence_index,token_index,word,lemma,pos
 14,71,11,ජනයා,ජන,NOUN
 14,71,12,දැක,දකි,Verb
 14,71,13,දොර,දොර,NOUN
-14,71,14,නොපිය,,Verb
+14,71,14,නොපිය,නොපිය,Verb
 14,71,15,වූ,ව,Verb
 14,71,16,කුසල,කුසල,NOUN
 14,71,17,බලයෙන්,බල,NOUN
@@ -20295,7 +20295,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,4,21,කෙසේ,කෙස,NOUN
 15,4,22,පැමිණවූ,පමුණ,Verb
 15,4,23,සේක්ද,සේක්ද,Proper noun or Invalid
-15,4,24,යත්,,NOUN
+15,4,24,යත්,යත්,NOUN
 15,4,25,කුළුණන්,කුළුණ,NOUN
 15,4,26,කරුණාවෙන්,කරුණා,NOUN
 15,4,27,බැස,බසි,Verb
@@ -20666,7 +20666,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,42,12,ප්රසාද,ප්රසාද,NOUN
 15,42,13,නෙත්රයට,නෙත්රයට,Proper noun or Invalid
 15,42,14,විෂය,විෂය,NOUN
-15,42,15,වෙමින්,,Verb
+15,42,15,වෙමින්,වෙමින්,Verb
 15,42,16,පාදාන්තයෙහි,පාදාන්ත,NOUN
 15,42,17,පටන්,පටන්,PART
 15,42,18,කෙශාන්තය,කෙශාන්තය,Proper noun or Invalid
@@ -20909,7 +20909,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,42,255,නැමැති,නැමැති,PART
 15,42,256,නෙත්රයට,නෙත්රයට,Proper noun or Invalid
 15,42,257,විෂය,විෂය,NOUN
-15,42,258,වෙමින්,,Verb
+15,42,258,වෙමින්,වෙමින්,Verb
 15,42,259,මනඃ,මනඃ,Proper noun or Invalid
 15,42,260,ප්රසාදය,ප්රසාද,NOUN
 15,42,261,උපදවා,උපද,Verb
@@ -21012,7 +21012,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,43,0,කෙසේ,කෙස,NOUN
 15,43,1,වූ,ව,Verb
 15,43,2,ද,ද,PART
-15,43,3,යත්,,NOUN
+15,43,3,යත්,යත්,NOUN
 15,44,0,යනාදීන්,යනාදී,NOUN
 15,44,1,දක්වන,දක්වන,NOUN
 15,44,2,ලද,ලද,NOUN
@@ -21357,7 +21357,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,47,7,යුතු,යුතුxva,Verb
 15,48,0,හේ,හ,PROPER NOUN
 15,48,1,කෙසේද,කෙසේද,PART
-15,48,2,යත්,,NOUN
+15,48,2,යත්,යත්,NOUN
 15,49,0,එක්,එක්xkara,Verb
 15,49,1,සමයෙක,සමයෙක,Proper noun or Invalid
 15,49,2,අප,අප,PRONOUN
@@ -21847,7 +21847,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,58,69,ස්මෘති,ස්මෘති,NOUN
 15,58,70,කමටහනුන්ට,කමටහන,NOUN
 15,58,71,අනතුරු,අනතුර,NOUN
-15,58,72,ට,,PROPER NOUN
+15,58,72,ට,ට,PROPER NOUN
 15,58,73,උදෙසන,උදෙස,Verb
 15,58,74,ලද,ලද,NOUN
 15,58,75,කරුණා,කරුණා,NOUN
@@ -21908,7 +21908,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,60,40,ධම්මික,ධම්මික,PROPER NOUN
 15,60,41,සම්පරායීක,සම්පරායී,NOUN
 15,60,42,අනර්ථ,අනර්ථ,NOUN
-15,60,43,යට,,NOUN
+15,60,43,යට,යට,NOUN
 15,60,44,මුල්,මුල්,ADJECTIVE
 15,60,45,බව,බව,PART
 15,60,46,යන,ය,Verb
@@ -21980,7 +21980,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,62,21,කෙරෙහිද,කෙරෙහිද,PART
 15,62,22,යන,ය,Verb
 15,62,23,අර්ථයි,අර්ථ,NOUN
-15,63,0,ට,,PROPER NOUN
+15,63,0,ට,ට,PROPER NOUN
 15,63,1,සමර්ථ,සමර්ථ,NOUN
 15,63,2,ක්ෂාන්ති,ක්ෂාන්ති,NOUN
 15,63,3,නැමැති,නැමැති,PART
@@ -22066,7 +22066,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,64,30,වෙහෙසේ,වෙහෙස,NOUN
 15,64,31,අප්රිය,අප්රි,NOUN
 15,64,32,බව,බව,PART
-15,64,33,ති,,Verb
+15,64,33,ති,ති,Verb
 15,64,34,ද්වෙෂයෙන්,ද්වෙෂයෙන්,Proper noun or Invalid
 15,64,35,ප්රිය,ප්රි,NOUN
 15,64,36,බවට,බවට,PART
@@ -22128,7 +22128,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,64,92,කරන්නහු,කරන්නහු,Proper noun or Invalid
 15,64,93,විසිනු,විසි,Verb
 15,64,94,ඳහම,ඳහම,NOUN
-15,64,95,නෙන,,Verb
+15,64,95,නෙන,නෙන,Verb
 15,64,96,නොමඳ,නොමඳ,NOUN
 15,64,97,දුකක්,දුක,NOUN
 15,64,98,උපන්,උපන්,ADJECTIVE
@@ -22287,7 +22287,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,67,37,වහන්ස,වහන්ස,Proper noun or Invalid
 15,67,38,මෙ,මෙ,NOUN
 15,67,39,මට,ම,PRONOUN
-15,67,40,ට,,PROPER NOUN
+15,67,40,ට,ට,PROPER NOUN
 15,67,41,රාගය,රාග,NOUN
 15,67,42,උපදී,උපදි,Verb
 15,67,43,මෛත්රි,මෛත්රි,Proper noun or Invalid
@@ -22304,7 +22304,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,67,54,තමාගේ,තම,NOUN
 15,67,55,කුලට,කුල,NOUN
 15,67,56,එලඹෙන,ඔලඹ,Verb
-15,67,57,මි,,Verb
+15,67,57,මි,මි,Verb
 15,67,58,ඒ,ඒ,PART
 15,67,59,ධ්යානයට,ධ්යානයට,Proper noun or Invalid
 15,67,60,සමවදනට,සමවදන,NOUN
@@ -22349,7 +22349,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,67,99,ප්රිය,ප්රි,NOUN
 15,67,100,පුඟුලක්හු,පුඟුලක්හු,Proper noun or Invalid
 15,67,101,කෙරෙහි,කෙරෙහි,PART
-15,67,102,යයි,,NOUN
+15,67,102,යයි,යයි,NOUN
 15,67,103,කී,ක,NOUN
 15,67,104,තස්සච,තස්සච,NOUN
 15,67,105,රහයා,රහ,NOUN
@@ -22562,7 +22562,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,71,3,සුව,සුව,NOUN
 15,71,4,සමන්විත,සමන්විත,PART
 15,71,5,වූවාහු,වූවාහු,Proper noun or Invalid
-15,71,6,නු,,Verb
+15,71,6,නු,නු,Verb
 15,71,7,මෙත්ත,මෙත්ත,PROPER NOUN
 15,71,8,සුත්තෙ,සුත්තෙ,Proper noun or Invalid
 15,71,9,කරණීය,කරණී,NOUN
@@ -22642,7 +22642,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,74,18,කෙසේ,කෙස,NOUN
 15,74,19,වාසය,වාසය,Proper noun or Invalid
 15,74,20,කරන්නේද,කරන්නේද,Proper noun or Invalid
-15,74,21,යත්,,NOUN
+15,74,21,යත්,යත්,NOUN
 15,75,0,සෙ,සෙ,PART
 15,75,1,ය්යථාපි,ය්යථාපි,Proper noun or Invalid
 15,75,2,නාම,නාම,NOUN
@@ -22671,7 +22671,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,75,25,එවං,එවං,NOUN
 15,75,26,තත්ථ,තත්ථ,Proper noun or Invalid
 15,75,27,අත්තා,අත්ත,NOUN
-15,75,28,ති,,Verb
+15,75,28,ති,ති,Verb
 15,75,29,මෛත්රියෙන්,මෛත්රියෙන්,Proper noun or Invalid
 15,75,30,පතුරුවන්නේ,පතුරුවන්නේ,Proper noun or Invalid
 15,75,31,යයියන,යයියන,Proper noun or Invalid
@@ -22993,7 +22993,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,79,5,අපණා,අපණ,NOUN
 15,79,6,වහ,වහxva,Verb
 15,79,7,නොවේද,නොවේද,Proper noun or Invalid
-15,79,8,යත්,,NOUN
+15,79,8,යත්,යත්,NOUN
 15,80,0,ලෙ,ලෙ,NOUN
 15,80,1,මෙබඳු,මෙබඳු,PART
 15,80,2,පුඟුලන්,පුඟුල,NOUN
@@ -23546,7 +23546,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,151,1,පිරි,පිරි,NOUN
 15,151,2,ඉසුරු,ඉසුර,NOUN
 15,151,3,සැපතින්,සැපත,NOUN
-15,151,4,වෙමින්,,Verb
+15,151,4,වෙමින්,වෙමින්,Verb
 15,151,5,බර,බර,NOUN
 15,152,0,අනත,අනත,NOUN
 15,152,1,පෙණ,පෙණ,NOUN
@@ -23794,7 +23794,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,194,3,නිති,නිති,PART
 15,194,4,සරන,සර,Verb
 15,194,5,සෙනඟය,සෙනඟ,NOUN
-15,195,0,යන්,,NOUN
+15,195,0,යන්,යන්,NOUN
 15,195,1,වතු,වතු,NOUN
 15,195,2,කමල්,කමල්,PROPER NOUN
 15,195,3,විල්,විල,NOUN
@@ -24226,7 +24226,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,233,40,ගෙ,ගෙ,NOUN
 15,233,41,කියමනක්,කියමන,NOUN
 15,233,42,නොවේ,ව,Verb
-15,233,43,යයි,,NOUN
+15,233,43,යයි,යයි,NOUN
 15,233,44,සලකා,සලක,Verb
 15,233,45,මෙහි,මෙහි,PART
 15,233,46,අප,අප,PRONOUN
@@ -24343,7 +24343,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,241,41,පක්ෂ,පක්ෂ,NOUN
 15,241,42,සංහතිය,සංහති,NOUN
 15,241,43,නිලුපුල්දෙලෙව්,නිලුපුල්දෙලෙව්,Proper noun or Invalid
-15,241,44,නී,,Verb
+15,241,44,නී,නී,Verb
 15,241,45,ලොත්පල,ලොත්පල,Proper noun or Invalid
 15,241,46,පත්රයන්,පත්රයන්,Proper noun or Invalid
 15,241,47,මෙන්,මෙන්,PART
@@ -25687,7 +25687,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,340,1,වසයෙන්,වස,NOUN
 15,340,2,වේ,ව,Verb
 15,340,3,මො,ම,NOUN
-15,340,4,හු,,Verb
+15,340,4,හු,හු,Verb
 15,340,5,කෙරෙහි,කෙරෙහි,PART
 15,340,6,මේ,මේ,PART
 15,340,7,නරෙන්ද්රයා,නරෙන්ද්රයා,Proper noun or Invalid
@@ -25872,7 +25872,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,359,37,කාන්තාවගේ,කාන්තා,NOUN
 15,359,38,ලාවණ්යයෙන්,ලාවණ්යයෙන්,Proper noun or Invalid
 15,359,39,පව,ප,NOUN
-15,359,40,ති,,Verb
+15,359,40,ති,ති,Verb
 15,359,41,පවන්නීය,පවන්නීය,Proper noun or Invalid
 15,360,0,රුසිරුගුණ,රුසිරුගුණ,NOUN
 15,360,1,රූපශ්රී,රූපශ්ර,NOUN
@@ -26612,7 +26612,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,432,10,විශිෂ්ට,විශිෂ්ට,NOUN
 15,432,11,පාරාපතෙන්ද්රයෙක්,පාරාපතෙන්ද්රයෙක්,Proper noun or Invalid
 15,432,12,ද,ද,PART
-15,432,13,යත්,,NOUN
+15,432,13,යත්,යත්,NOUN
 15,432,14,කිරි,කිරි,NOUN
 15,432,15,මුහුදින්,මුහුද,NOUN
 15,432,16,ක්ෂීරාණිවයෙන්,ක්ෂීරාණිවයෙන්,Proper noun or Invalid
@@ -26729,7 +26729,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,437,0,සුදු,සුදු,ADJECTIVE
 15,437,1,බුදු,බුදු,PROPER NOUN
 15,437,2,නිවෙසි,නිවෙසි,Proper noun or Invalid
-15,437,3,නෙන,,Verb
+15,437,3,නෙන,නෙන,Verb
 15,437,4,තොප,තොප,NOUN
 15,437,5,දැකැලෙව්,දැකැලෙව,NOUN
 15,437,6,එසඳ,එසඳ,NOUN
@@ -27924,7 +27924,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,512,8,කයින්,කයින්,Proper noun or Invalid
 15,512,9,වචසින්,වචස,NOUN
 15,512,10,මනසින්,මනස,NOUN
-15,512,11,යයි,,NOUN
+15,512,11,යයි,යයි,NOUN
 15,512,12,තුන්,තුන,NOUN
 15,512,13,පරිද්දෙන්,පරිද්දෙන්,PART
 15,512,14,වැඳ,වඳ,Verb
@@ -28023,7 +28023,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,520,7,ගැණීම,ගැණීම,NOUN
 15,520,8,අධ්යාහාර,අධ්යාහාර,Proper noun or Invalid
 15,520,9,නමිකෙසේය,නමිකෙසේ,NOUN
-15,520,10,යත්,,NOUN
+15,520,10,යත්,යත්,NOUN
 15,520,11,අගුලගත්,අගුලග,NOUN
 15,520,12,දොරින්,දොර,NOUN
 15,520,13,පිටත,පිටත,ADJECTIVE
@@ -28187,7 +28187,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,536,13,ඇත්තාහු,ඇත්තාහු,Proper noun or Invalid
 15,536,14,වග්ගා,වග්ග,NOUN
 15,536,15,වර්ග,වර්ග,NOUN
-15,536,16,යෝ,,NOUN
+15,536,16,යෝ,යෝ,NOUN
 15,536,17,නම්හුයි,නම්හ,NOUN
 15,537,0,වර්ගයන්,වර්ග,NOUN
 15,537,1,අතුරෙහි,අතුර,NOUN
@@ -28226,7 +28226,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,538,22,ඇතුලත්,ඇතුලත්xva,Verb
 15,538,23,කරණ,කරණ,NOUN
 15,538,24,ලදහු,ලදහ,NOUN
-15,538,25,යයි,,NOUN
+15,538,25,යයි,යයි,NOUN
 15,539,0,මෙසෙයින්,මෙසෙයින්,Proper noun or Invalid
 15,539,1,ලිංගය,ලිංග,NOUN
 15,539,2,සර්ව,සර්ව,NOUN
@@ -28341,10 +28341,10 @@ century,sentence_index,token_index,word,lemma,pos
 15,546,12,ජා,ජා,PROPER NOUN
 15,546,13,ඔෂ්ඨයෙන්,ඔෂ්ඨ,NOUN
 15,546,14,උපදිත්,උපදි,NOUN
-15,547,0,ට,,PROPER NOUN
+15,547,0,ට,ට,PROPER NOUN
 15,547,1,වග්ග,වග්ග,NOUN
 15,547,2,ටවර්ගය,ටවර්ග,NOUN
-15,547,3,ට,,PROPER NOUN
+15,547,3,ට,ට,PROPER NOUN
 15,547,4,ඨ,ඨ,NOUN
 15,547,5,ඩ,ඩ,PROPER NOUN
 15,547,6,ඪ,ඪ,NOUN
@@ -28353,7 +28353,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,547,9,රකාරළකාර,රකාරළකාර,NOUN
 15,547,10,යන,ය,Verb
 15,547,11,මො,ම,NOUN
-15,547,12,හු,,Verb
+15,547,12,හු,හු,Verb
 15,547,13,මුඛජා,මුඛජ,NOUN
 15,547,14,මුදුනෙන්,මුදුන,NOUN
 15,547,15,උපදිත්,උපදි,NOUN
@@ -28364,7 +28364,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,548,4,සකාර,සකාර,NOUN
 15,548,5,යන,ය,Verb
 15,548,6,මො,ම,NOUN
-15,548,7,හු,,Verb
+15,548,7,හු,හු,Verb
 15,548,8,දන්තජා,දන්තජා,Proper noun or Invalid
 15,548,9,දතින්,දත,NOUN
 15,548,10,උපදිත්,උපදි,NOUN
@@ -28442,7 +28442,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,557,9,නම්,නම්,PART
 15,557,10,වර්ණ,වර්ණ,NOUN
 15,557,11,විනාස,විනාස,PROPER NOUN
-15,557,12,යයි,,NOUN
+15,557,12,යයි,යයි,NOUN
 15,557,13,වර්ණයාගේ,වර්ණ,NOUN
 15,557,14,නොකීමයයි,නොකීම,NOUN
 15,557,15,සේයි,ස,NOUN
@@ -28635,7 +28635,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,570,3,ලද්දේ,ලද්ද,NOUN
 15,570,4,නම්,නම්,PART
 15,570,5,සරෙ,සර,NOUN
-15,570,6,යනුයි,,NOUN
+15,570,6,යනුයි,යනුයි,NOUN
 15,571,0,සරෙයනු,සරෙයන,NOUN
 15,571,1,සම්බන්ධ,සම්බන්ධ,NOUN
 15,571,2,කරණු,කරණ,NOUN
@@ -28732,7 +28732,7 @@ century,sentence_index,token_index,word,lemma,pos
 15,578,26,යථා,යථා,ADJECTIVE
 15,578,27,ක්රමයෙන්,ක්රමයෙන්,Proper noun or Invalid
 15,578,28,වෙති,ව,Verb
-15,578,29,ති,,Verb
+15,578,29,ති,ති,Verb
 15,578,30,යනු,ය,Verb
 15,578,31,වේ,ව,Verb
 15,579,0,යන,ය,Verb
@@ -29202,7 +29202,7 @@ century,sentence_index,token_index,word,lemma,pos
 16,131,2,විසිතුරු,විසිතුරු,ADJECTIVE
 16,132,0,පුනරුත්,පුනරුත්,Proper noun or Invalid
 16,132,1,පදත්,පද,NOUN
-16,132,2,නොමි,,Verb
+16,132,2,නොමි,නොමි,Verb
 16,132,3,යුරු,යුර,NOUN
 16,133,0,සඳඑලි,සඳඑලි,Proper noun or Invalid
 16,133,1,සහ,සහ,PART
@@ -29274,7 +29274,7 @@ century,sentence_index,token_index,word,lemma,pos
 16,151,0,සතහට,සතහ,NOUN
 16,151,1,වැඩ,වැඩ,NOUN
 16,151,2,නිසා,නිසා,PART
-16,152,0,යෝ,,NOUN
+16,152,0,යෝ,යෝ,NOUN
 16,152,1,රුවනාර,රුවනාර,NOUN
 16,152,2,වෙසෙසා,වෙසෙස,Verb
 16,153,0,මතු,මතුxkara,Verb
@@ -30103,7 +30103,7 @@ century,sentence_index,token_index,word,lemma,pos
 16,340,2,නොපැනෙද,නොපැනෙද,NOUN
 16,341,0,අංග,අංග,NOUN
 16,341,1,විකල,විකල,NOUN
-16,341,2,වෙමින්,,Verb
+16,341,2,වෙමින්,වෙමින්,Verb
 16,341,3,පෙනෙද,පෙනෙද,NOUN
 16,342,0,නොයෙක්,නොයෙක්,PART
 16,342,1,සතුන්,සත,NOUN
@@ -30546,29 +30546,29 @@ century,sentence_index,token_index,word,lemma,pos
 18,23,3,ජ්වරය,ජ්වර,NOUN
 18,23,4,තෙම,තෙම,Verb
 18,23,5,ජ්වර,ජ්වර,NOUN
-18,23,6,යයි,,NOUN
+18,23,6,යයි,යයි,NOUN
 18,23,7,කියාද,කියාද,Proper noun or Invalid
 18,23,8,අසාදයයි,අසාද,NOUN
 18,23,9,කියා,කිය,Verb
 18,23,10,ද,ද,PART
 18,23,11,රොගස්ථිති,රොගස්ථිති,Proper noun or Invalid
-18,23,12,යයි,,NOUN
+18,23,12,යයි,යයි,NOUN
 18,23,13,කියාද,කියාද,Proper noun or Invalid
 18,23,14,පාපවා,පාප,NOUN
-18,23,15,යයි,,NOUN
+18,23,15,යයි,යයි,NOUN
 18,23,16,කියාද,කියාද,Proper noun or Invalid
 18,23,17,මොහු,මොහ,NOUN
 18,23,18,යයි,ය,Verb
 18,23,19,කියා,කිය,Verb
 18,23,20,ද,ද,PART
 18,23,21,යොජිත,යොජිත,Proper noun or Invalid
-18,23,22,යයි,,NOUN
+18,23,22,යයි,යයි,NOUN
 18,23,23,කියාද,කියාද,Proper noun or Invalid
 18,23,24,අන්තක,අන්තක,NOUN
-18,23,25,යයි,,NOUN
+18,23,25,යයි,යයි,NOUN
 18,23,26,කියාද,කියාද,Proper noun or Invalid
 18,23,27,ක්රොධ,ක්රොධ,Proper noun or Invalid
-18,23,28,යයි,,NOUN
+18,23,28,යයි,යයි,NOUN
 18,23,29,කියාද,කියාද,Proper noun or Invalid
 18,23,30,යන,ය,Verb
 18,23,31,මෙ,මෙ,NOUN
@@ -32046,7 +32046,7 @@ century,sentence_index,token_index,word,lemma,pos
 18,122,35,ද්වාත්රිංශත්වර,ද්වාත්රිංශත්වර,Proper noun or Invalid
 18,122,36,මහාපුරුෂ,මහාපුරුෂ,NOUN
 18,122,37,ලක්ෂණශිත්ය,ලක්ෂණශිත්ය,Proper noun or Invalid
-18,122,38,නු,,Verb
+18,122,38,නු,නු,Verb
 18,122,39,ව්යංජන,ව්යංජන,NOUN
 18,122,40,ඛ්යාම,ඛ්යාම,Proper noun or Invalid
 18,122,41,ප්රභා,ප්රභ,NOUN
@@ -32274,7 +32274,7 @@ century,sentence_index,token_index,word,lemma,pos
 18,124,33,වු,ව,NOUN
 18,124,34,අක්ෂරයන්ට,අක්ෂරයන්ට,Proper noun or Invalid
 18,124,35,අක්ෂරයෝ,අක්ෂරයෝ,Proper noun or Invalid
-18,124,36,යයි,,NOUN
+18,124,36,යයි,යයි,NOUN
 18,124,37,කියා,කිය,Verb
 18,124,38,සංඥා,සංඥා,NOUN
 18,124,39,කළනියාය,කළනියාය,Proper noun or Invalid
@@ -32299,7 +32299,7 @@ century,sentence_index,token_index,word,lemma,pos
 18,125,18,අට,අට,PROPER NOUN
 18,125,19,දෙනාට,දෙන,NOUN
 18,125,20,ස්වරාක්ෂරයෝ,ස්වරාක්ෂරයෝ,Proper noun or Invalid
-18,125,21,යයි,,NOUN
+18,125,21,යයි,යයි,NOUN
 18,125,22,සංඥා,සංඥා,NOUN
 18,125,23,කළ,කර,Verb
 18,125,24,නියාය,නියා,NOUN
@@ -32342,7 +32342,7 @@ century,sentence_index,token_index,word,lemma,pos
 18,127,21,දෙනාට,දෙන,NOUN
 18,127,22,දීර්ඝ,දීර්ඝ,NOUN
 18,127,23,ස්වරයෝ,ස්වර,NOUN
-18,127,24,යයි,,NOUN
+18,127,24,යයි,යයි,NOUN
 18,127,25,සංඥා,සංඥා,NOUN
 18,127,26,කළ,කර,Verb
 18,127,27,බවය,බවය,PART
@@ -32407,7 +32407,7 @@ century,sentence_index,token_index,word,lemma,pos
 18,130,2,ඒ,ඒ,PART
 18,130,3,බ්යංජන,බ්යංජන,NOUN
 18,130,4,අක්ෂර,අක්ෂර,NOUN
-18,130,5,යන්,,NOUN
+18,130,5,යන්,යන්,NOUN
 18,130,6,තෙතිදෙනාගෙන්,තෙතිදෙන,NOUN
 18,130,7,කඛ,කඛ,NOUN
 18,130,8,ගඝන්ධ,ගඝන්ධ,Proper noun or Invalid
@@ -32432,7 +32432,7 @@ century,sentence_index,token_index,word,lemma,pos
 18,130,27,පස්විසි,පස්විසි,NOUN
 18,130,28,දෙනාට,දෙන,NOUN
 18,130,29,වර්ගාක්ෂරයෝ,වර්ගාක්ෂරයෝ,Proper noun or Invalid
-18,130,30,යයි,,NOUN
+18,130,30,යයි,යයි,NOUN
 18,130,31,සංඥා,සංඥා,NOUN
 18,130,32,කළ,කර,Verb
 18,130,33,බවය,බවය,PART
@@ -32863,7 +32863,7 @@ century,sentence_index,token_index,word,lemma,pos
 18,165,8,යථා,යථා,ADJECTIVE
 18,165,9,ක්රමයෙන්,ක්රමයෙන්,Proper noun or Invalid
 18,165,10,ආදෙශවෙත්,ආදෙශ,NOUN
-18,165,11,යට,,NOUN
+18,165,11,යට,යට,NOUN
 18,165,12,සිටි,සිටි,Verb
 18,165,13,ස්වර,ස්වර,NOUN
 18,165,14,රහිත,රහිත,PART
@@ -32978,7 +32978,7 @@ century,sentence_index,token_index,word,lemma,pos
 18,177,10,යෙන්,යෙන්,PART
 18,177,11,දීර්ඝ,දීර්ඝ,NOUN
 18,177,12,වේ,ව,Verb
-18,177,13,යට,,NOUN
+18,177,13,යට,යට,NOUN
 18,177,14,සිටි,සිටි,Verb
 18,177,15,පෙ,පෙ,PROPER NOUN
 18,177,16,පැමිණ,පමුණ,Verb
@@ -33032,7 +33032,7 @@ century,sentence_index,token_index,word,lemma,pos
 18,182,11,පක්ෂයෙක්හි,පක්ෂයෙක්හි,Proper noun or Invalid
 18,182,12,දීර්ඝ,දීර්ඝ,NOUN
 18,182,13,වේ,ව,Verb
-18,182,14,යට,,NOUN
+18,182,14,යට,යට,NOUN
 18,182,15,සිටි,සිටි,Verb
 18,182,16,පෙ,පෙ,PROPER NOUN
 18,182,17,පැමිණ,පමුණ,Verb
@@ -33109,7 +33109,7 @@ century,sentence_index,token_index,word,lemma,pos
 18,189,4,සූත්රයෙන්,සූත්රයෙන්,Proper noun or Invalid
 18,189,5,ලොප්,ලොප,NOUN
 18,189,6,වේ,ව,Verb
-18,189,7,යට,,NOUN
+18,189,7,යට,යට,NOUN
 18,189,8,සිටි,සිටි,Verb
 18,189,9,පෙ,පෙ,PROPER NOUN
 18,189,10,පැමිණ,පමුණ,Verb
@@ -33415,7 +33415,7 @@ century,sentence_index,token_index,word,lemma,pos
 18,207,40,සේක,සේක,PART
 18,208,0,හේ,හ,PROPER NOUN
 18,208,1,කෙසේද,කෙසේද,PART
-18,208,2,යත්,,NOUN
+18,208,2,යත්,යත්,NOUN
 18,209,0,බුදුන්ගේ,බුදුන්,PROPER NOUN
 18,209,1,දෙපතුල,දෙපතුල,NOUN
 18,209,2,යටපත්ල,යටපත්ල,Proper noun or Invalid
@@ -34246,10 +34246,10 @@ century,sentence_index,token_index,word,lemma,pos
 18,225,65,සංස්කාර,සංස්කාර,NOUN
 18,225,66,ධර්මයෙක්,ධර්ම,NOUN
 18,225,67,නිත්ය,නිත්ය,Proper noun or Invalid
-18,225,68,යයි,,NOUN
+18,225,68,යයි,යයි,NOUN
 18,225,69,ගන්නටද,ගන්නටද,Proper noun or Invalid
 18,225,70,සුඛ,සුඛ,NOUN
-18,225,71,යයි,,NOUN
+18,225,71,යයි,යයි,NOUN
 18,225,72,ගන්නටද,ගන්නටද,Proper noun or Invalid
 18,225,73,ආත්ම,ආත්ම,NOUN
 18,225,74,යයි,ය,Verb
@@ -34354,7 +34354,7 @@ century,sentence_index,token_index,word,lemma,pos
 18,225,173,ධර්ම,ධර්ම,NOUN
 18,225,174,කෙනෙක්,කෙන,NOUN
 18,225,175,නිත්ය,නිත්ය,Proper noun or Invalid
-18,225,176,යයි,,NOUN
+18,225,176,යයි,යයි,NOUN
 18,225,177,ගන්නටද,ගන්නටද,Proper noun or Invalid
 18,225,178,සුඛයයි,සුඛ,NOUN
 18,225,179,ගන්නට,ගන්,Verb
@@ -34681,7 +34681,7 @@ century,sentence_index,token_index,word,lemma,pos
 18,237,2,අන්ය,අන්ය,Proper noun or Invalid
 18,237,3,පුද්ගලයන්ගේ,පුද්ගල,NOUN
 18,237,4,ලොශාස්වත,ලොශාස්වත,NOUN
-18,237,5,යයි,,NOUN
+18,237,5,යයි,යයි,NOUN
 18,237,6,ද,ද,PART
 18,237,7,අසාස්වත,අසාස්වත,NOUN
 18,237,8,යයිද,යයිද,Proper noun or Invalid
@@ -35147,7 +35147,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,21,9,ගැණ,ගණ,Verb
 19,21,10,අවිවාහක,අවිවාහක,NOUN
 19,21,11,මනුෂ්යයන්,මනුෂ්ය,NOUN
-19,21,12,ට,,PROPER NOUN
+19,21,12,ට,ට,PROPER NOUN
 19,21,13,කියා,කිය,Verb
 19,21,14,දෙන,දෙ,Verb
 19,21,15,ලෙස,ලෙස,PART
@@ -35461,7 +35461,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,43,4,ගොස්,ය,Verb
 19,43,5,අන්තිමේදී,අන්තිමේදී,Proper noun or Invalid
 19,43,6,අරනින්දිතකම,අරනින්දිතකම,Proper noun or Invalid
-19,43,7,ට,,PROPER NOUN
+19,43,7,ට,ට,PROPER NOUN
 19,43,8,අසුවෙන්,අසු,NOUN
 19,43,9,ලජ්ජාව,ලජ්ජා,NOUN
 19,43,10,නිසා,නිසා,PART
@@ -35828,7 +35828,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,60,13,නොඅසන,අස,Verb
 19,60,14,ලෙස,ලෙස,PART
 19,60,15,ඉල්ලමි,ඉල්ල,Verb
-19,60,16,යයි,,NOUN
+19,60,16,යයි,යයි,NOUN
 19,60,17,චිනිකී,චිනිකී,Proper noun or Invalid
 19,60,18,පාදිලි,පාදිලි,NOUN
 19,60,19,තැන,තැන,NOUN
@@ -36002,7 +36002,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,70,5,නියම,නියම,NOUN
 19,70,6,කර,කර,Verb
 19,70,7,තිබ,තබ,Verb
-19,71,0,ේ,,PROPER NOUN
+19,71,0,ේ,ේ,PROPER NOUN
 19,71,1,මේ,මේ,PART
 19,71,2,මාර්ගයෙන්,මාර්ග,NOUN
 19,71,3,ඉල්ලන,ඉල්ල,Verb
@@ -36022,7 +36022,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,72,6,තැනට,තැන,NOUN
 19,72,7,තරවටු,තරවටු,NOUN
 19,72,8,නොකටයුතු,නොකටයුතු,Proper noun or Invalid
-19,72,9,යයි,,NOUN
+19,72,9,යයි,යයි,NOUN
 19,72,10,සන්තලිගෝරී,සන්තලිගෝරී,Proper noun or Invalid
 19,72,11,උන්නාන්සේ,උන්නාන්සේ,NOUN
 19,72,12,කියා,කිය,Verb
@@ -36151,7 +36151,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,79,0,අනිත්,අනිත්,PART
 19,79,1,මිනිසුන්ට,මිනිස,NOUN
 19,79,2,කාමරෙන්,කාමර,NOUN
-19,79,3,යන්ට,,NOUN
+19,79,3,යන්ට,යන්ට,NOUN
 19,79,4,කියා,කිය,Verb
 19,79,5,මෙම,මෙම,PART
 19,79,6,පාදිලි,පාදිලි,NOUN
@@ -36235,7 +36235,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,86,11,මගේ,ම,PRONOUN
 19,86,12,ප්රථම,ප්රථම,Proper noun or Invalid
 19,86,13,පාපොච්චාරණකාර,පාපොච්චාරණකාර,NOUN
-19,86,14,යන්,,NOUN
+19,86,14,යන්,යන්,NOUN
 19,86,15,මරණවා,මරණ,NOUN
 19,86,16,ඇති,ඇති,NOUN
 19,87,0,මැරෙන්ට,මැරෙන්ට,Proper noun or Invalid
@@ -36498,7 +36498,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,111,0,මරණය,මරණ,NOUN
 19,111,1,ඉතා,ඉතා,PART
 19,111,2,ලඟ,ලඟ,PROPER NOUN
-19,111,3,යයි,,NOUN
+19,111,3,යයි,යයි,NOUN
 19,111,4,වෛද්යයාමට,වෛද්යයාමට,Proper noun or Invalid
 19,111,5,කීවේය,කිය,Verb
 19,112,0,මරණය,මරණ,NOUN
@@ -37262,7 +37262,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,134,2,වූ,ව,Verb
 19,134,3,දෙශනාවෙක්,දෙශනා,NOUN
 19,134,4,ද,ද,PART
-19,134,5,යත්,,NOUN
+19,134,5,යත්,යත්,NOUN
 19,135,0,ගංගා,ගංගා,NOUN
 19,135,1,යමුනාදි,යමුනාදි,Proper noun or Invalid
 19,135,2,නොයෙක්,නොයෙක්,PART
@@ -37422,7 +37422,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,140,5,දන්නා,දන්,Verb
 19,140,6,ශ්රද්ධාවන්ත,ශ්රද්ධාවන්ත,Proper noun or Invalid
 19,140,7,සත්පුරුෂ,සත්පුරුෂ,NOUN
-19,140,8,යන්ට,,NOUN
+19,140,8,යන්ට,යන්ට,NOUN
 19,140,9,වැඩ,වැඩ,NOUN
 19,140,10,පිණිසත්,පිණිස,NOUN
 19,140,11,පූර්වාචාර්යවරයන්,පූර්වාචාර්යවරයන්,Proper noun or Invalid
@@ -37534,7 +37534,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,143,63,පුඡාගාථා,පුඡාගාථා,Proper noun or Invalid
 19,143,64,විස්සජ්ජනා,විස්සජ්ජන,NOUN
 19,143,65,ගාථා,ගාථා,NOUN
-19,143,66,යයි,,NOUN
+19,143,66,යයි,යයි,NOUN
 19,143,67,ද්විප්රකාර,ද්විප්රකාර,NOUN
 19,143,68,වන්නාහ,වන්නාහ,Proper noun or Invalid
 19,144,0,එහි,එ,Verb
@@ -37602,7 +37602,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,146,33,සේක,සේක,PART
 19,146,34,හේ,හ,PROPER NOUN
 19,146,35,කෙසේද,කෙසේද,PART
-19,146,36,යත්,,NOUN
+19,146,36,යත්,යත්,NOUN
 19,147,0,ජන,ජන,NOUN
 19,147,1,කුමුදවිකාසනසරදෙන්දුසන්නිභවූ,කුමුදවිකාසනසරදෙන්දුසන්නිභවූ,Proper noun or Invalid
 19,147,2,සර්වඥ,සර්වඥ,NOUN
@@ -37613,7 +37613,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,147,7,විසි,විසි,ADJECTIVE
 19,147,8,අසංඛ්යක,අසංඛ්,NOUN
 19,147,9,ලක්ෂයකින්,ලක්ෂ,NOUN
-19,147,10,යට,,NOUN
+19,147,10,යට,යට,NOUN
 19,147,11,මනොප්රණිධානයට,මනොප්රණිධාන,NOUN
 19,147,12,පළමුවන,පළමුවන,PROPER NOUN
 19,147,13,නන්දනම්,නන්දනම්,Proper noun or Invalid
@@ -37698,7 +37698,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,150,3,තෙළසාසංඛ්ය,තෙළසාසංඛ්,NOUN
 19,150,4,කප්,කප,NOUN
 19,150,5,ලක්ෂයකින්,ලක්ෂ,NOUN
-19,150,6,යට,,NOUN
+19,150,6,යට,යට,NOUN
 19,150,7,වාග්විණිධානයට,වාග්විණිධානයට,Proper noun or Invalid
 19,150,8,පළමුවන,පළමුවන,PROPER NOUN
 19,150,9,සර්වභද්ර,සර්වභද්ර,NOUN
@@ -38316,7 +38316,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,312,3,සිදතින,සිදතින,NOUN
 19,313,0,එක,එක,PROPER NOUN
 19,313,1,පටියා,පටි,NOUN
-19,313,2,යනුත්,,NOUN
+19,313,2,යනුත්,යනුත්,NOUN
 19,314,0,ගැමි,ගැමි,ADJECTIVE
 19,314,1,අරුත්,අරුත,NOUN
 19,314,2,දොස්,දොස,NOUN
@@ -38953,7 +38953,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,428,3,පඬිවරයෝ,පඬිවර,NOUN
 19,428,4,නුවණා,නුවණ,NOUN
 19,429,0,ප,ප,NOUN
-19,429,1,ව්,,Verb
+19,429,1,ව්,ව්,Verb
 19,429,2,වට,වට,NOUN
 19,429,3,පවා,පවා,PART
 19,429,4,ගැසු,ගැස,NOUN
@@ -39642,7 +39642,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,451,2,විවරණය,විවරණ,NOUN
 19,451,3,යනු,ය,Verb
 19,451,4,කවරෙක්ද,කවරෙක්ද,Proper noun or Invalid
-19,451,5,යත්,,NOUN
+19,451,5,යත්,යත්,NOUN
 19,452,0,ශ්රී,ශ්ර,NOUN
 19,452,1,ලංකා,ලංකා,NOUN
 19,452,2,ද්වීපවාසී,ද්වීපවාසී,Proper noun or Invalid
@@ -39739,7 +39739,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,452,93,ලැබේ,ලබ,Verb
 19,452,94,හේ,හ,PROPER NOUN
 19,452,95,කෙසේද,කෙසේද,PART
-19,452,96,යත්,,NOUN
+19,452,96,යත්,යත්,NOUN
 19,452,97,සීහස්සලාතත්නා,සීහස්සලාතත්නා,Proper noun or Invalid
 19,452,98,සීහලො,සීහල,NOUN
 19,452,99,යී,ය,NOUN
@@ -39779,7 +39779,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,453,32,කුමාර,කුමාර,NOUN
 19,453,33,තෙම,තෙම,Verb
 19,453,34,තමාගේ,තම,NOUN
-19,453,35,පිය,,Verb
+19,453,35,පිය,පිය,Verb
 19,453,36,වූ,ව,Verb
 19,453,37,සිංහරාජයා,සිංහරාජ,NOUN
 19,453,38,විදැ,විද,NOUN
@@ -40170,7 +40170,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,467,16,කළාය,කර,Verb
 19,467,17,දියනියන්ට,දියනියන්ට,Proper noun or Invalid
 19,467,18,සිංහසීවලී,සිංහසීවලී,Proper noun or Invalid
-19,467,19,යයි,,NOUN
+19,467,19,යයි,යයි,NOUN
 19,467,20,යන,ය,Verb
 19,467,21,නාමය,නාම,NOUN
 19,467,22,කළාය,කර,Verb
@@ -40228,7 +40228,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,469,22,කුමාරිකා,කුමාරිකා,NOUN
 19,469,23,තොමෝ,තොමෝ,PART
 19,469,24,තාගේ,ත,NOUN
-19,469,25,පිය,,Verb
+19,469,25,පිය,පිය,Verb
 19,469,26,වූ,ව,Verb
 19,469,27,සිංහරාජ,සිංහරාජ,PROPER NOUN
 19,469,28,තෙමේ,තෙම,Verb
@@ -40316,7 +40316,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,474,8,වෙනෙහි,වෙනෙහි,Proper noun or Invalid
 19,474,9,වසන්න,වස,Verb
 19,474,10,මෝ,මෝ,NOUN
-19,474,11,යයි,,NOUN
+19,474,11,යයි,යයි,NOUN
 19,474,12,කීවාහුය,කීවාහුය,Proper noun or Invalid
 19,474,13,ඒ,ඒ,PART
 19,474,14,සේනා,සේනා,NOUN
@@ -41628,7 +41628,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,527,0,මෙහි,මෙහි,PART
 19,527,1,එක,එක,PROPER NOUN
 19,527,2,වචනාන්ත,වචනාන්ත,NOUN
-19,527,3,යයි,,NOUN
+19,527,3,යයි,යයි,NOUN
 19,527,4,කියයුතු,කියයුතු,Proper noun or Invalid
 19,527,5,තැන,තැන,NOUN
 19,527,6,ද්වි,ද්වි,ADJECTIVE
@@ -41706,7 +41706,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,530,44,හට,හට,PART
 19,530,45,නරාභ්යාම්,නරාභ්යාම්,Proper noun or Invalid
 19,530,46,මනුෂ්ය,මනුෂ්,NOUN
-19,530,47,යන්,,NOUN
+19,530,47,යන්,යන්,NOUN
 19,530,48,දෙදෙ,දෙද,NOUN
 19,530,49,නෙකුන්ට,නෙකුන්ට,Proper noun or Invalid
 19,530,50,නරෙභ්යඃ,නරෙභ්යඃ,Proper noun or Invalid
@@ -42946,7 +42946,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,576,4,යුද්ධාරම්භයට,යුද්ධාරම්භ,NOUN
 19,576,5,කරුණු,කරුණ,NOUN
 19,576,6,කවරේද,කවරේද,PART
-19,576,7,යත්,,NOUN
+19,576,7,යත්,යත්,NOUN
 19,577,0,ශ්රී,ශ්ර,NOUN
 19,577,1,බුද්ධ,බුද්ධ,PROPER NOUN
 19,577,2,වර්ෂ,වර්ෂ,NOUN
@@ -43462,7 +43462,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,602,15,කොට,කොටxkara,Verb
 19,602,16,කඨිනයහගෙණ,කඨිනයහගෙණ,Proper noun or Invalid
 19,602,17,මාසයක්,මාස,NOUN
-19,602,18,යන්ට,,NOUN
+19,602,18,යන්ට,යන්ට,NOUN
 19,602,19,මත්තෙන්,මත්තෙන්,Proper noun or Invalid
 19,602,20,ඒශිමාවේ,ඒශිමා,NOUN
 19,602,21,පිරිකර,පිරිකර,NOUN
@@ -43494,7 +43494,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,606,0,අන්යනිකායික,අන්යනිකායික,Proper noun or Invalid
 19,606,1,භික්ෂුන්ට,භික්ෂුන්ට,Proper noun or Invalid
 19,606,2,දුශ්ශීලයෝ,දුශ්ශීල,NOUN
-19,606,3,යයි,,NOUN
+19,606,3,යයි,යයි,NOUN
 19,606,4,කියමින්,කිය,Verb
 19,606,5,ගරුකා,ගරුක,NOUN
 19,606,6,පත්තිවලට,පත්තිවලට,Proper noun or Invalid
@@ -43506,7 +43506,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,607,3,සහ,සහ,PART
 19,607,4,ඉගැන්වීම,ඉගැන්වීම,NOUN
 19,607,5,වරද,වරද,NOUN
-19,607,6,යයි,,NOUN
+19,607,6,යයි,යයි,NOUN
 19,607,7,කියමීන්,කියමීන්,Proper noun or Invalid
 19,607,8,එය,එ,NOUN
 19,607,9,ඉගෙණීම,ඉගෙණීම,Proper noun or Invalid
@@ -43589,7 +43589,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,613,11,එවුවාට,එවු,NOUN
 19,613,12,පසු,පසු,NOUN
 19,613,13,වෙනිදා,වෙනිදා,PART
-19,613,14,ට,,PROPER NOUN
+19,613,14,ට,ට,PROPER NOUN
 19,613,15,ආණ්ඩුවේ,ආණ්ඩු,NOUN
 19,613,16,පාඨශාලාවට,පාඨශාලා,NOUN
 19,613,17,යම්පක්ෂයක්,යම්පක්ෂයක්,Proper noun or Invalid
@@ -43702,13 +43702,13 @@ century,sentence_index,token_index,word,lemma,pos
 19,617,32,ඔප්පු,ඔප්පු,NOUN
 19,617,33,කර,කර,Verb
 19,617,34,දෙනවා,දෙ,Verb
-19,617,35,යයි,,NOUN
+19,617,35,යයි,යයි,NOUN
 19,617,36,මට,ම,PRONOUN
 19,617,37,ලියා,ලිය,Verb
 19,617,38,එවා,එ,Verb
 19,617,39,තිබෙන්නේ,තිබෙන්නේ,Proper noun or Invalid
 19,617,40,මුළාකමකින්,මුළාකම,NOUN
-19,617,41,යයි,,NOUN
+19,617,41,යයි,යයි,NOUN
 19,617,42,සිතෙන,සිත,Verb
 19,617,43,නුමුත්,නුම,NOUN
 19,617,44,එහි,එ,Verb
@@ -43840,7 +43840,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,625,12,තිබෙන්නේ,තිබෙන්නේ,Proper noun or Invalid
 19,625,13,අඹ,අඹ,NOUN
 19,625,14,විචාළකල්හිදෙල්,විචාළකල්හිදෙල,NOUN
-19,625,15,යයි,,NOUN
+19,625,15,යයි,යයි,NOUN
 19,625,16,උත්තර,උත්තර,NOUN
 19,625,17,දීම,දීම,NOUN
 19,625,18,වැනි,වැනි,PART
@@ -44678,7 +44678,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,686,31,අනික්,අනික්,PART
 19,686,32,රූපයක්,රූප,NOUN
 19,686,33,පිළිසිඳගන්නවා,පිළිසිඳගන්නවා,Proper noun or Invalid
-19,686,34,යයි,,NOUN
+19,686,34,යයි,යයි,NOUN
 19,686,35,නාගසෙන,නාගසෙන,NOUN
 19,686,36,විසින්,විසින්,PART
 19,686,37,උත්තර,උත්තර,NOUN
@@ -45316,7 +45316,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,726,11,වෙනවාය,වෙනවාය,Proper noun or Invalid
 19,726,12,එයිනුත්,එයිනුත්,Proper noun or Invalid
 19,726,13,පරලොව,පරලො,NOUN
-19,726,14,යන්ට,,NOUN
+19,726,14,යන්ට,යන්ට,NOUN
 19,726,15,දෙයක්,දෙ,NOUN
 19,726,16,ඇත්තේ,ඇත්තේ,PART
 19,726,17,නැත,නැත,PART
@@ -45587,7 +45587,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,744,1,මනුෂ්යයාගේ,මනුෂ්ය,NOUN
 19,744,2,ආත්මයට,ආත්ම,NOUN
 19,744,3,මනුෂ්යාත්ම,මනුෂ්යාත්ම,Proper noun or Invalid
-19,744,4,යයි,,NOUN
+19,744,4,යයි,යයි,NOUN
 19,744,5,කියති,කිය,Verb
 19,745,0,එම,එම,PART
 19,745,1,මනුෂ්යාත්මය,මනුෂ්යාත්මය,Proper noun or Invalid
@@ -45930,7 +45930,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,767,34,කරණ,කරණ,NOUN
 19,767,35,එකක්,එක,NOUN
 19,767,36,නම්,නම්xkara,Verb
-19,767,37,යන්ට,,NOUN
+19,767,37,යන්ට,යන්ට,NOUN
 19,767,38,අවකාශයක්,අවකාශ,NOUN
 19,767,39,නැති,නැතිxkara,Verb
 19,767,40,නිසා,නිසා,PART
@@ -46551,7 +46551,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,813,16,ඉක්මවා,ඉක්ම,Verb
 19,813,17,යන,ය,Verb
 19,813,18,සේක,සේක,PART
-19,813,19,යනුයි,,NOUN
+19,813,19,යනුයි,යනුයි,NOUN
 19,814,0,මෙයින්,මෙයින්,Proper noun or Invalid
 19,814,1,හැඟෙන්නේ,හැඟෙන්නේ,Proper noun or Invalid
 19,814,2,ඊශ්රාලිතවරුන්නේ,ඊශ්රාලිතවරුන්නේ,Proper noun or Invalid
@@ -46633,7 +46633,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,819,1,යේ,යේ,PART
 19,819,2,හෝ,හෝ,PART
 19,819,3,චඃ,චඃ,Proper noun or Invalid
-19,819,4,ට,,PROPER NOUN
+19,819,4,ට,ට,PROPER NOUN
 19,819,5,සියල්ල,සියල්ල,NOUN
 19,819,6,දක්නා,දක්නා,Proper noun or Invalid
 19,819,7,දිව්ය,දිව්,NOUN
@@ -46896,7 +46896,7 @@ century,sentence_index,token_index,word,lemma,pos
 19,832,65,එවිට,එවිට,PART
 19,832,66,උන්වහන්සේ,උන්වහන්සේ,NOUN
 19,832,67,ඔහු,ඔහු,PRONOUN
-19,832,68,යන්ට,,NOUN
+19,832,68,යන්ට,යන්ට,NOUN
 19,832,69,ඇරිසේක,ඇරිස,NOUN
 19,832,70,යන,යන,PART
 19,832,71,මේ,මේ,PART
@@ -48825,7 +48825,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,94,2,මෙරමා,මෙරම,NOUN
 20,94,3,දෙපතුල,දෙපතුල,NOUN
 20,94,4,වන්දා,වන්ද,Verb
-20,95,0,යන්,,NOUN
+20,95,0,යන්,යන්,NOUN
 20,95,1,සමග,සමග,PART
 20,95,2,සැනහෙන,සනහ,Verb
 20,95,3,දිය,දියxkara,Verb
@@ -49008,7 +49008,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,125,4,ගෙල,ගෙල,NOUN
 20,125,5,නොසිඳ,සිඳි,Verb
 20,126,0,වක්,වක්xkara,Verb
-20,126,1,නු,,Verb
+20,126,1,නු,නු,Verb
 20,126,2,පොරණ,පොරණ,NOUN
 20,126,3,සිංහල,සිංහල,NOUN
 20,126,4,අත්,අත,NOUN
@@ -49446,7 +49446,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,198,0,ටනට,ටන,NOUN
 20,198,1,යම,යම,NOUN
 20,198,2,වු,ව,NOUN
-20,198,3,යයි,,NOUN
+20,198,3,යයි,යයි,NOUN
 20,198,4,අඬගා,අඬග,NOUN
 20,198,5,කියන,කිය,Verb
 20,198,6,කොට,කොටxkara,Verb
@@ -49842,7 +49842,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,245,1,ගම්,ගම,NOUN
 20,245,2,සීමාවට,සීමා,NOUN
 20,245,3,ගම්වල්,ගම්වල්,Proper noun or Invalid
-20,245,4,යයි,,NOUN
+20,245,4,යයි,යයි,NOUN
 20,245,5,ව්යවහාර,ව්යවහාර,NOUN
 20,245,6,විය,විය,Verb
 20,246,0,පැරැණි,පැරැණි,ADJECTIVE
@@ -50256,7 +50256,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,266,2,නම්,නම්,PART
 20,266,3,ජනපද,ජනපද,NOUN
 20,266,4,විතර්කය,විතර්ක,NOUN
-20,266,5,යයි,,NOUN
+20,266,5,යයි,යයි,NOUN
 20,266,6,අන්ය,අන්ය,Proper noun or Invalid
 20,266,7,නාමයකින්,නාම,NOUN
 20,266,8,කියැවෙන,කියව,Verb
@@ -50783,7 +50783,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,299,10,ලැබී,ලබ,Verb
 20,299,11,කරවන,කර,Verb
 20,299,12,අසවලාට,අසවලාට,Proper noun or Invalid
-20,299,13,යයි,,NOUN
+20,299,13,යයි,යයි,NOUN
 20,299,14,ලියති,ලිය,Verb
 20,300,0,රට,රට,NOUN
 20,300,1,පාලනය,පාලන,NOUN
@@ -50836,7 +50836,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,302,6,සටහන්,සටහන,NOUN
 20,302,7,තිබිය,තබ,Verb
 20,302,8,යුතු,යුතුxva,Verb
-20,302,9,යයි,,NOUN
+20,302,9,යයි,යයි,NOUN
 20,302,10,කියා,කිය,Verb
 20,302,11,තිබෙන,තිබෙ,Verb
 20,302,12,විට,විට,PART
@@ -51364,7 +51364,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,330,27,යම,යම,NOUN
 20,330,28,අතිශයින්,අතිශයින්,ADJECTIVE
 20,330,29,උතුම්,උතුම්,ADJECTIVE
-20,330,30,යයි,,NOUN
+20,330,30,යයි,යයි,NOUN
 20,330,31,පණ්ඩිතයෝ,පණ්ඩිත,NOUN
 20,330,32,කියත්,කියත,NOUN
 20,331,0,පාත්,පාත්xva,Verb
@@ -51625,7 +51625,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,339,22,එක්වූකල,එක්වූකල,Proper noun or Invalid
 20,339,23,කියනු,කිය,Verb
 20,339,24,කිම,කිම,Proper noun or Invalid
-20,339,25,යනුයි,,NOUN
+20,339,25,යනුයි,යනුයි,NOUN
 20,340,0,මේ,මේ,PART
 20,340,1,සොලෝ,සොලෝ,NOUN
 20,340,2,දෙක,දෙක,PROPER NOUN
@@ -52300,7 +52300,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,363,24,එකින්ද්රිය,එකින්ද්රිය,Proper noun or Invalid
 20,363,25,විහෙඨනාදිය,විහෙඨනාදි,NOUN
 20,363,26,කරත්,කර,NOUN
-20,363,27,යයි,,NOUN
+20,363,27,යයි,යයි,NOUN
 20,363,28,උජ්ඣා,උජ්ඣා,Proper noun or Invalid
 20,363,29,යනාදිය,යනාදි,NOUN
 20,363,30,කරන්නාහු,කරන්නාහු,Proper noun or Invalid
@@ -52583,7 +52583,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,376,7,මාසයක්,මාස,NOUN
 20,376,8,ඉතුරු,ඉතුරු,NOUN
 20,376,9,වූයේ,වූ,NOUN
-20,376,10,යයි,,NOUN
+20,376,10,යයි,යයි,NOUN
 20,376,11,දැන,දන්,Verb
 20,376,12,හික්ෂුව,හික්ෂුව,Proper noun or Invalid
 20,376,13,විසින්,විසින්,PART
@@ -53353,7 +53353,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,434,1,යනු,යනු,PART
 20,434,2,ත්,ත්,PART
 20,434,3,හි,හි,NOUN
-20,434,4,යනුත්,,NOUN
+20,434,4,යනුත්,යනුත්,NOUN
 20,434,5,පද,පද,NOUN
 20,434,6,පූරණාර්ථයෙහි,පූරණාර්ථයෙහි,Proper noun or Invalid
 20,434,7,වැටෙන,වැටෙ,Verb
@@ -53617,7 +53617,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,452,28,වූයේ,වූ,NOUN
 20,452,29,ත්,ත්,PART
 20,452,30,හෙතෙමේ,හෙතෙම,NOUN
-20,452,31,නු,,Verb
+20,452,31,නු,නු,Verb
 20,452,32,යි,යි,PART
 20,452,33,කන්ධර,කන්ධර,NOUN
 20,452,34,සමස්,සමස,NOUN
@@ -54229,7 +54229,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,479,4,ජිලියෙමින්,ජිලියෙමින්,Proper noun or Invalid
 20,479,5,අවුජ්,අවුජ,NOUN
 20,479,6,ජලිත,ජලිත,NOUN
-20,479,7,වෙමින්,,Verb
+20,479,7,වෙමින්,වෙමින්,Verb
 20,479,8,අවුත්,අව,NOUN
 20,479,9,රහත්,රහ,NOUN
 20,479,10,ඵල,ඵල,NOUN
@@ -54656,7 +54656,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,516,7,වැඩිලා,වඩ,Verb
 20,516,8,මෙහි,මෙහි,PART
 20,516,9,ඉන්නෝ,ඉන්නෝ,Proper noun or Invalid
-20,517,0,න්න,,Verb
+20,517,0,න්න,න්න,Verb
 20,517,1,වගෙයි,වගෙයි,PART
 20,517,2,මඩ,මඩ,PROPER NOUN
 20,517,3,ගෝරු,ගෝර,NOUN
@@ -54770,11 +54770,11 @@ century,sentence_index,token_index,word,lemma,pos
 20,528,7,කුත්,කු,PROPER NOUN
 20,528,8,නොලැබී,ලබ,Verb
 20,528,9,අඬමින්නේ,අඬමින්නේ,Proper noun or Invalid
-20,529,0,න්න,,Verb
+20,529,0,න්න,න්න,Verb
 20,529,1,තමන්ගෙම,තමන්ගෙම,Proper noun or Invalid
 20,529,2,ඤාති,ඤාති,NOUN
 20,529,3,සහෝදර,සහෝදර,NOUN
-20,529,4,යන්,,NOUN
+20,529,4,යන්,යන්,NOUN
 20,529,5,ඉඳුවා,ඉඳු,NOUN
 20,529,6,බඩගින්නේ,බඩගින්න,NOUN
 20,530,0,රන්,රන්,NOUN
@@ -54840,7 +54840,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,536,4,අපි,අප,PRONOUN
 20,536,5,ජීවිතයත්,ජීවිත,NOUN
 20,536,6,පුදමූ,පුදමූ,NOUN
-20,536,7,යයි,,NOUN
+20,536,7,යයි,යයි,NOUN
 20,537,0,කෑම,කෑම,NOUN
 20,537,1,කටක්,කට,NOUN
 20,537,2,ලැබූ,ලබ,Verb
@@ -54903,7 +54903,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,543,3,මුන්නැහෙලා,මුන්නැහෙලා,Proper noun or Invalid
 20,543,4,බණ,බණ,NOUN
 20,543,5,කීමට,කීම,NOUN
-20,543,6,යත්,,NOUN
+20,543,6,යත්,යත්,NOUN
 20,543,7,ඒරොප්පේ,ඒරොප්ප,NOUN
 20,544,0,සිගිරියේ,සිගිරිය,PROPER NOUN
 20,544,1,සිතියම්,සිතියම,NOUN
@@ -56046,7 +56046,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,634,0,ක,ක,NOUN
 20,634,1,ග,ග,PROPER NOUN
 20,634,2,ජ,ජ,NOUN
-20,634,3,ට,,PROPER NOUN
+20,634,3,ට,ට,PROPER NOUN
 20,634,4,ඩ,ඩ,PROPER NOUN
 20,634,5,ණ,ණ,NOUN
 20,634,6,ත,ත,NOUN
@@ -56329,7 +56329,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,660,19,ක,ක,NOUN
 20,660,20,ග,ග,PROPER NOUN
 20,660,21,ජ,ජ,NOUN
-20,660,22,ට,,PROPER NOUN
+20,660,22,ට,ට,PROPER NOUN
 20,660,23,ඩ,ඩ,PROPER NOUN
 20,660,24,ණ,ණ,NOUN
 20,660,25,ත,ත,NOUN
@@ -56560,7 +56560,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,668,10,හගවන්ට,හග,NOUN
 20,668,11,උදාහරණ,උදාහරණ,NOUN
 20,668,12,දැක්වූයේ,දැක්වූයේ,Proper noun or Invalid
-20,668,13,යයි,,NOUN
+20,668,13,යයි,යයි,NOUN
 20,668,14,පුරාණ,පුරාණ,ADJECTIVE
 20,668,15,සන්නයෙහි,සන්න,NOUN
 20,668,16,කියන,කිය,Verb
@@ -56587,7 +56587,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,669,19,ගැණ,ගණ,Verb
 20,669,20,ප්රාණක්ෂර,ප්රාණක්ෂර,Proper noun or Invalid
 20,669,21,පස,පස,NOUN
-20,669,22,යයි,,NOUN
+20,669,22,යයි,යයි,NOUN
 20,670,0,සලකාහෝ,සලකාහ,NOUN
 20,670,1,ඒ,ඒ,PART
 20,670,2,ආචාර්ය,ආචාර්ය,NOUN
@@ -56646,7 +56646,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,673,18,යන්න,යන්න,NOUN
 20,673,19,ඵලා,ඵ,NOUN
 20,673,20,වාචක,වාචක,Proper noun or Invalid
-20,673,21,යයි,,NOUN
+20,673,21,යයි,යයි,NOUN
 20,673,22,කියවාගෙණ,කියවාගෙණ,Proper noun or Invalid
 20,673,23,ඒ,ඒ,PART
 20,673,24,එන්සාලට,එන්සාලට,Proper noun or Invalid
@@ -58263,7 +58263,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,738,33,අනුව,අනුව,PART
 20,738,34,පැවතිය,පවති,Verb
 20,738,35,යුතු,යුතුxva,Verb
-20,738,36,යයි,,NOUN
+20,738,36,යයි,යයි,NOUN
 20,738,37,වදාළ,වදාළ,NOUN
 20,738,38,සේක,සේක,PART
 20,739,0,ඒ,ඒ,PART
@@ -58383,7 +58383,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,744,10,දෙවන,දෙවන,PROPER NOUN
 20,744,11,පෑළවිය,පෑළවි,NOUN
 20,744,12,දවසෙහි,දවස,NOUN
-20,744,13,යයි,,NOUN
+20,744,13,යයි,යයි,NOUN
 20,744,14,ද,ද,PART
 20,744,15,එදවස,එදවස,PART
 20,744,16,වස්සාන,වස්සාන,NOUN
@@ -58392,7 +58392,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,744,19,මස,මස,NOUN
 20,744,20,පළමුවෙනි,පළමුවෙනි,PROPER NOUN
 20,744,21,දවස,දවස,NOUN
-20,744,22,යයි,,NOUN
+20,744,22,යයි,යයි,NOUN
 20,744,23,කියාත්,කියාත්,PROPER NOUN
 20,744,24,කා,ක,Verb
 20,744,25,විසිනුත්,විස,NOUN
@@ -58562,12 +58562,12 @@ century,sentence_index,token_index,word,lemma,pos
 20,750,14,බැවින්,බැවින්,PART
 20,750,15,ප්රාප්තාධි,ප්රාප්තාධි,NOUN
 20,750,16,මාස,මාස,NOUN
-20,750,17,යයි,,NOUN
+20,750,17,යයි,යයි,NOUN
 20,750,18,වෙද,වෙද,NOUN
 20,750,19,වෙදීහු,වෙදීහු,Proper noun or Invalid
 20,750,20,ව්යවහාර,ව්යවහාර,NOUN
 20,750,21,කෙරෙත්,කෙර,NOUN
-20,750,22,යනුයි,,NOUN
+20,750,22,යනුයි,යනුයි,NOUN
 20,751,0,තවද,තවද,PART
 20,751,1,මෙම,මෙම,PART
 20,751,2,පාඨයෙහි,පාඨ,NOUN
@@ -58631,7 +58631,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,751,60,කාටත්,කා,PROPER NOUN
 20,751,61,තේරුම්දීම,තේරුම්දීම,NOUN
 20,751,62,පිණිස,පිණිස,PART
-20,751,63,යයි,,NOUN
+20,751,63,යයි,යයි,NOUN
 20,751,64,නිසැකව,නිසැකව,Proper noun or Invalid
 20,751,65,සැළකිය,සැළකිය,Proper noun or Invalid
 20,751,66,යුතු,යුතුxva,Verb
@@ -58725,7 +58725,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,756,21,ප්රකාරයට,ප්රකාර,NOUN
 20,756,22,ගණින,ගණි,Verb
 20,756,23,ලදුවම,ලදුවම,NOUN
-20,756,24,යයි,,NOUN
+20,756,24,යයි,යයි,NOUN
 20,756,25,කා,ක,Verb
 20,756,26,විසිනුත්,විස,NOUN
 20,756,27,නිසැකව,නිසැකව,Proper noun or Invalid
@@ -58770,7 +58770,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,757,36,යුග,යුග,NOUN
 20,757,37,වර්ෂ,වර්ෂ,NOUN
 20,757,38,ගණනින්ම,ගණනින්ම,Proper noun or Invalid
-20,757,39,යයි,,NOUN
+20,757,39,යයි,යයි,NOUN
 20,757,40,මෙයින්,මෙයින්,Proper noun or Invalid
 20,757,41,නිසැකව,නිසැකව,Proper noun or Invalid
 20,757,42,දැනගත,දැනගත,NOUN
@@ -58853,7 +58853,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,762,4,ඉෂ්ට,ඉෂ්ට,ADJECTIVE
 20,762,5,කරගත,කරගත,NOUN
 20,762,6,යුතු,යුතුxva,Verb
-20,762,7,යයි,,NOUN
+20,762,7,යයි,යයි,NOUN
 20,762,8,කියන,කිය,Verb
 20,762,9,ලද,ලද,NOUN
 20,762,10,මේ,මේ,PART
@@ -59025,10 +59025,10 @@ century,sentence_index,token_index,word,lemma,pos
 20,773,4,ඒ,ඒ,PART
 20,773,5,මාසය,මාස,NOUN
 20,773,6,අධිමාස,අධිමාස,NOUN
-20,773,7,යයි,,NOUN
+20,773,7,යයි,යයි,NOUN
 20,773,8,කියන,කිය,Verb
 20,773,9,ලදියි,ලදි,NOUN
-20,773,10,යනුයි,,NOUN
+20,773,10,යනුයි,යනුයි,NOUN
 20,774,0,මෙහි,මෙහි,PART
 20,774,1,කී,ක,NOUN
 20,774,2,දෑවුරුදු,දෑවුරුදු,NOUN
@@ -59385,7 +59385,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,817,0,පළ,පළxkara,Verb
 20,817,1,හෙළ,හෙළ,NOUN
 20,817,2,කෙලෙස,කෙලෙස,NOUN
-20,817,3,නොයි,,Verb
+20,817,3,නොයි,නොයි,Verb
 20,817,4,ළැඟෙත,ළැඟෙත,NOUN
 20,817,5,රුදු,රුද,NOUN
 20,817,6,පහා,පහ,NOUN
@@ -59946,7 +59946,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,890,12,ගුණ,ගුණ,NOUN
 20,890,13,නමැති,නමැති,PART
 20,890,14,මණින,මණින,NOUN
-20,890,15,ට,,PROPER NOUN
+20,890,15,ට,ට,PROPER NOUN
 20,890,16,මහා,මහ,Verb
 20,890,17,සාගර,සාගර,NOUN
 20,890,18,වූ,ව,Verb
@@ -60371,7 +60371,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,928,5,තුබූ,තුබූ,NOUN
 20,928,6,කලැ,කල,NOUN
 20,928,7,වැඳෙන්න,වඳ,Verb
-20,928,8,හු,,Verb
+20,928,8,හු,හු,Verb
 20,928,9,ගේ,ගේ,PART
 20,928,10,පය,ප,NOUN
 20,928,11,වඳින්නහු,වඳින්නහු,Proper noun or Invalid
@@ -61797,7 +61797,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,1111,44,ර්,ර,NOUN
 20,1111,45,ළ්,ළ,NOUN
 20,1111,46,ල්,ල,NOUN
-20,1111,47,ව්,,Verb
+20,1111,47,ව්,ව්,Verb
 20,1111,48,ශ්,ශ්,PROPER NOUN
 20,1111,49,ෂ්,ෂ,NOUN
 20,1111,50,ස්,ස,NOUN
@@ -62547,7 +62547,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,1201,3,විදිතත්,විදි,Verb
 20,1201,4,දුක,දුක,NOUN
 20,1201,5,නොමඳ,නොමඳ,NOUN
-20,1202,0,න්නේය,,Verb
+20,1202,0,න්නේය,න්නේය,Verb
 20,1202,1,සලකා,සලක,Verb
 20,1202,2,අයියාගෙ,අයිය,NOUN
 20,1202,3,හද,හද,NOUN
@@ -62821,7 +62821,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,1245,3,නිසි,නිසි,ADJECTIVE
 20,1245,4,වයස,වයස,NOUN
 20,1245,5,පසු,පසු,NOUN
-20,1245,6,වෙමින්,,Verb
+20,1245,6,වෙමින්,වෙමින්,Verb
 20,1245,7,යසෝදර,යසෝදර,NOUN
 20,1245,8,කුමාරිය,කුමාරි,NOUN
 20,1245,9,සරන,සර,Verb
@@ -63097,7 +63097,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,1269,18,ආ,එ,Verb
 20,1269,19,සේ,සේ,PART
 20,1269,20,දන්ඩිය,දන්ඩිය,Proper noun or Invalid
-20,1269,21,මු,,Verb
+20,1269,21,මු,මු,Verb
 20,1269,22,පෙන්නන්නේ,පෙන්නන්නේ,Proper noun or Invalid
 20,1270,0,රාමන්ඩි,රාමන්ඩි,Proper noun or Invalid
 20,1270,1,සොයා,සොය,Verb
@@ -63862,7 +63862,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,1384,2,කිරුලට,කිරුල,PROPER NOUN
 20,1384,3,යවහත්,යවහ,NOUN
 20,1384,4,වැසි,වැසි,NOUN
-20,1384,5,යන්,,NOUN
+20,1384,5,යන්,යන්,NOUN
 20,1384,6,හට,හට,PART
 20,1384,7,කප්තුරයෙන්,කප්තුරයෙන්,Proper noun or Invalid
 20,1384,8,වසනා,වස,Verb
@@ -64033,7 +64033,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,1408,0,දාසව්වනේ,දාසව්වන,NOUN
 20,1408,1,පියනිරිඳුන්,පියනිරිඳුන්,Proper noun or Invalid
 20,1408,2,අනලෙස,අනලෙස,NOUN
-20,1408,3,යන්ට,,NOUN
+20,1408,3,යන්ට,යන්ට,NOUN
 20,1408,4,නික්මෙනු,නික්මෙ,Verb
 20,1408,5,ඝමකුමරුවනි,ඝමකුමරුවනි,Proper noun or Invalid
 20,1409,0,රජකුමරු,රජකුමර,NOUN
@@ -64197,7 +64197,7 @@ century,sentence_index,token_index,word,lemma,pos
 20,1427,4,මගේ,ම,PRONOUN
 20,1428,0,ලත්තු,ලත්තු,Proper noun or Invalid
 20,1428,1,අපෙ,අප,NOUN
-20,1428,2,පිය,,Verb
+20,1428,2,පිය,පිය,Verb
 20,1428,3,දෙන්න,දෙ,Verb
 20,1428,4,හට,හට,PART
 20,1428,5,පෙම,පෙම,NOUN

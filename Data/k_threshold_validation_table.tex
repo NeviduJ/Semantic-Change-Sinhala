@@ -1,0 +1,18 @@
+\begin{table}[htbp]
+\centering
+\begin{tabular}{lrrrr}
+\toprule
+Method & Comparisons & Flagged at $k=0.8$ & \% Flagged & Deviation from Theory \\
+\midrule
+Word2Vec (Statistical OP) & 3,150 & 635 & 20.16\% & -1.03 pp \\
+Word2Vec (Neural-OP) & 3,150 & 648 & 20.57\% & -0.62 pp \\
+FastText (Statistical OP) & 3,045 & 503 & 16.52\% & -4.67 pp \\
+FastText (Neural-OP) & 3,045 & 493 & 16.19\% & -5.00 pp \\
+\midrule
+Mean across pipelines & & & 18.36\% & -2.83 pp \\
+Theoretical Gaussian ($\Phi(-0.8)$) & & & 21.19\% & --- \\
+\bottomrule
+\end{tabular}
+\caption{Empirical validation of the $k=0.8$ drift-detection threshold against the theoretical Gaussian expectation across the Statistical OP and Neural-OP alignment pipelines.}
+\label{tab:k_threshold_validation}
+\end{table}
