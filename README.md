@@ -1,4 +1,4 @@
-# Dynamics of Meaning: Diachronic Semantic Change in Sinhala
+# Diachronic Semantic Change in Sinhala
 
 A study on **diachronic semantic change in Sinhala**: how word meanings have shifted
 across 6 centuries (13th, 14th, 15th, 18th, 19th, 20th) of Sinhala textual history,
