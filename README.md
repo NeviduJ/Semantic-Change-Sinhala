@@ -1,8 +1,8 @@
-# Dynamics of Meaning: Towards the Evaluation of Diachronic Semantic Change in Sinhala
+# Dynamics of Meaning: Diachronic Semantic Change in Sinhala
 
 A study on **diachronic semantic change in Sinhala**: how word meanings have shifted
-across nine centuries (5th, 12th–20th) of Sinhala textual history, using both static
-(Word2Vec, FastText) and contextual (XLM-R, SinLlama, fine-tuned Llama-3.1-8B) word
+across 6 centuries (13th, 14th, 15th, 18th, 19th, 20th) of Sinhala textual history,
+using both static (Word2Vec, FastText) and contextual (XLM-R, SinLlama, fine-tuned Llama-3.1-8B) word
 embeddings, alongside a from-scratch Dynamic Bernoulli Embeddings implementation. This
 repository contains the full pipeline behind the paper below, including the
 **SiDiaC-v.2.5** POS/lemma dataset it produces.
@@ -10,20 +10,6 @@ repository contains the full pipeline behind the paper below, including the
 Nevidu Jayatilleke, Nisansa de Silva (2026)
 
 📄 [arXiv:2609.08609](https://arxiv.org/abs/2609.08609)
-
-## Citation
-
-```bibtex
-@article{jayatilleke2026dynamicsmeaningevaluationdiachronic,
-      title={Dynamics of meaning: Towards the Evaluation of Diachronic Semantic Change in Sinhala}, 
-      author={Nevidu Jayatilleke and Nisansa de Silva},
-      year={2026},
-      eprint={2609.08609},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2609.08609}, 
-}
-```
 
 ## Overview
 
@@ -80,3 +66,17 @@ see `Sinhala-Diachronic-POS-Lemma-Dataset/` for the build notebook.
 - Large binary artifacts (`Data/*.pt*`, `*.model`, `*.npy`, etc.) are gitignored; one
   large CSV (`Data/LlaMa_FT_lemma_drift_analysis_upd.csv`, ~220MB) is tracked via
   [Git LFS](https://git-lfs.github.com).
+
+## Citation
+
+```bibtex
+@article{jayatilleke2026dynamicsmeaningevaluationdiachronic,
+      title={Dynamics of meaning: Towards the Evaluation of Diachronic Semantic Change in Sinhala}, 
+      author={Nevidu Jayatilleke and Nisansa de Silva},
+      year={2026},
+      eprint={2609.08609},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2609.08609}, 
+}
+```
