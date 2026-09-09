@@ -54,8 +54,8 @@ Paper/                          The paper PDF
 
 The finalized, field-conforming (CoNLL-U Plus + rich CSV) POS/lemma corpus built from
 this pipeline is published separately on the Hugging Face Hub as
-[`Nevidu/SiDiaC-v.2.5`](https://huggingface.co/datasets/Nevidu/SiDiaC-v.2.5) (private) —
-see `Sinhala-Diachronic-POS-Lemma-Dataset/` for the build notebook.
+[`Nevidu/SiDiaC-v.2.5`](https://huggingface.co/datasets/Nevidu/SiDiaC-v.2.5) — see
+`Sinhala-Diachronic-POS-Lemma-Dataset/` for the build notebook.
 
 ## Environment
 

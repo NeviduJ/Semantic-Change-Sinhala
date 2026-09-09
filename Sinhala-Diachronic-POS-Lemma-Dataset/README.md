@@ -25,9 +25,8 @@ configs:
 # Sinhala Diachronic POS & Lemma Corpus
 
 Token-level part-of-speech tags and lemmas for a corpus of 59 OCR'd historical
-Sinhala documents (5th–20th century), built as part of the SDC (Sinhala
-Diachronic Corpus) study on semantic change in Sinhala. Provided in two
-formats:
+Sinhala documents (5th–20th century), built as part of a study on diachronic
+semantic change in Sinhala (see **Paper** below). Provided in two formats:
 
 - **`data/sinhala_diachronic_pos_lemma.conllu`** — [CoNLL-U Plus](https://universaldependencies.org/ext-format.html),
   the standard format for POS/lemma-annotated corpora in this field (loadable
@@ -35,10 +34,14 @@ formats:
 - **`data/sinhala_diachronic_pos_lemma.csv`** — the same data as a flat CSV,
   for anyone who'd rather not parse CoNLL-U.
 
-## Loading the dataset
+## Paper
 
-This repo is **private** — log in first (`huggingface-cli login`, or pass
-`token="hf_..."` explicitly to the calls below).
+**Dynamics of meaning: Towards the Evaluation of Diachronic Semantic Change in Sinhala**
+Nevidu Jayatilleke, Nisansa de Silva (2026)
+
+📄 [arXiv:2609.08609](https://arxiv.org/abs/2609.08609)
+
+## Loading the dataset
 
 **CSV, via 🤗 `datasets`:**
 
@@ -204,3 +207,17 @@ every century balances exactly, so document attribution itself is unaffected).
 
 Source texts: `Data/OCR_Final/` (documents with per-document metadata:
 title, author, genre, written/issued date, OCR confidence).
+
+## Citation
+
+```bibtex
+@article{jayatilleke2026dynamicsmeaningevaluationdiachronic,
+      title={Dynamics of meaning: Towards the Evaluation of Diachronic Semantic Change in Sinhala}, 
+      author={Nevidu Jayatilleke and Nisansa de Silva},
+      year={2026},
+      eprint={2609.08609},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2609.08609}, 
+}
+```
