@@ -1,18 +1,17 @@
-# SiDiaC-v.2.5 — Sinhala Diachronic Corpus
+# Dynamics of Meaning: Towards the Evaluation of Diachronic Semantic Change in Sinhala
 
 A study on **diachronic semantic change in Sinhala**: how word meanings have shifted
 across nine centuries (5th, 12th–20th) of Sinhala textual history, using both static
 (Word2Vec, FastText) and contextual (XLM-R, SinLlama, fine-tuned Llama-3.1-8B) word
-embeddings, alongside a from-scratch Dynamic Bernoulli Embeddings implementation.
+embeddings, alongside a from-scratch Dynamic Bernoulli Embeddings implementation. This
+repository contains the full pipeline behind the paper below, including the
+**SiDiaC-v.2.5** POS/lemma dataset it produces.
 
-## Paper
-
-**Dynamics of meaning: Towards the Evaluation of Diachronic Semantic Change in Sinhala**
 Nevidu Jayatilleke, Nisansa de Silva (2026)
 
 📄 [arXiv:2609.08609](https://arxiv.org/abs/2609.08609)
 
-### Citation
+## Citation
 
 ```bibtex
 @article{jayatilleke2026dynamicsmeaningevaluationdiachronic,
